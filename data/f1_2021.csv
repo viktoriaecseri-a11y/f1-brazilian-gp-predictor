@@ -1,0 +1,441 @@
+Year,Round,Race,Date,Circuit,DriverID,Driver,Team,GridPosition,FinishPosition,Points,Status,Won
+2021,1,Bahrain Grand Prix,2021-03-28,bahrain,hamilton,Lewis Hamilton,Mercedes,2,1,25.0,Finished,1
+2021,1,Bahrain Grand Prix,2021-03-28,bahrain,max_verstappen,Max Verstappen,Red Bull,1,2,18.0,Finished,0
+2021,1,Bahrain Grand Prix,2021-03-28,bahrain,bottas,Valtteri Bottas,Mercedes,3,3,16.0,Finished,0
+2021,1,Bahrain Grand Prix,2021-03-28,bahrain,norris,Lando Norris,McLaren,7,4,12.0,Finished,0
+2021,1,Bahrain Grand Prix,2021-03-28,bahrain,perez,Sergio Pérez,Red Bull,0,5,10.0,Finished,0
+2021,1,Bahrain Grand Prix,2021-03-28,bahrain,leclerc,Charles Leclerc,Ferrari,4,6,8.0,Finished,0
+2021,1,Bahrain Grand Prix,2021-03-28,bahrain,ricciardo,Daniel Ricciardo,McLaren,6,7,6.0,Finished,0
+2021,1,Bahrain Grand Prix,2021-03-28,bahrain,sainz,Carlos Sainz,Ferrari,8,8,4.0,Finished,0
+2021,1,Bahrain Grand Prix,2021-03-28,bahrain,tsunoda,Yuki Tsunoda,AlphaTauri,13,9,2.0,Finished,0
+2021,1,Bahrain Grand Prix,2021-03-28,bahrain,stroll,Lance Stroll,Aston Martin,10,10,1.0,Finished,0
+2021,1,Bahrain Grand Prix,2021-03-28,bahrain,raikkonen,Kimi Räikkönen,Alfa Romeo,14,11,0.0,Finished,0
+2021,1,Bahrain Grand Prix,2021-03-28,bahrain,giovinazzi,Antonio Giovinazzi,Alfa Romeo,12,12,0.0,+1 Lap,0
+2021,1,Bahrain Grand Prix,2021-03-28,bahrain,ocon,Esteban Ocon,Alpine F1 Team,16,13,0.0,+1 Lap,0
+2021,1,Bahrain Grand Prix,2021-03-28,bahrain,russell,George Russell,Williams,15,14,0.0,+1 Lap,0
+2021,1,Bahrain Grand Prix,2021-03-28,bahrain,vettel,Sebastian Vettel,Aston Martin,20,15,0.0,+1 Lap,0
+2021,1,Bahrain Grand Prix,2021-03-28,bahrain,mick_schumacher,Mick Schumacher,Haas F1 Team,18,16,0.0,+1 Lap,0
+2021,1,Bahrain Grand Prix,2021-03-28,bahrain,gasly,Pierre Gasly,AlphaTauri,5,17,0.0,Retired,0
+2021,1,Bahrain Grand Prix,2021-03-28,bahrain,latifi,Nicholas Latifi,Williams,17,18,0.0,Retired,0
+2021,1,Bahrain Grand Prix,2021-03-28,bahrain,alonso,Fernando Alonso,Alpine F1 Team,9,19,0.0,Brakes,0
+2021,1,Bahrain Grand Prix,2021-03-28,bahrain,mazepin,Nikita Mazepin,Haas F1 Team,19,20,0.0,Accident,0
+2021,2,Emilia Romagna Grand Prix,2021-04-18,imola,max_verstappen,Max Verstappen,Red Bull,3,1,25.0,Finished,1
+2021,2,Emilia Romagna Grand Prix,2021-04-18,imola,hamilton,Lewis Hamilton,Mercedes,1,2,19.0,Finished,0
+2021,2,Emilia Romagna Grand Prix,2021-04-18,imola,norris,Lando Norris,McLaren,7,3,15.0,Finished,0
+2021,2,Emilia Romagna Grand Prix,2021-04-18,imola,leclerc,Charles Leclerc,Ferrari,4,4,12.0,Finished,0
+2021,2,Emilia Romagna Grand Prix,2021-04-18,imola,sainz,Carlos Sainz,Ferrari,11,5,10.0,Finished,0
+2021,2,Emilia Romagna Grand Prix,2021-04-18,imola,ricciardo,Daniel Ricciardo,McLaren,6,6,8.0,Finished,0
+2021,2,Emilia Romagna Grand Prix,2021-04-18,imola,gasly,Pierre Gasly,AlphaTauri,5,7,6.0,Finished,0
+2021,2,Emilia Romagna Grand Prix,2021-04-18,imola,stroll,Lance Stroll,Aston Martin,10,8,4.0,Finished,0
+2021,2,Emilia Romagna Grand Prix,2021-04-18,imola,ocon,Esteban Ocon,Alpine F1 Team,9,9,2.0,Finished,0
+2021,2,Emilia Romagna Grand Prix,2021-04-18,imola,alonso,Fernando Alonso,Alpine F1 Team,15,10,1.0,Finished,0
+2021,2,Emilia Romagna Grand Prix,2021-04-18,imola,perez,Sergio Pérez,Red Bull,2,11,0.0,Finished,0
+2021,2,Emilia Romagna Grand Prix,2021-04-18,imola,tsunoda,Yuki Tsunoda,AlphaTauri,20,12,0.0,Finished,0
+2021,2,Emilia Romagna Grand Prix,2021-04-18,imola,raikkonen,Kimi Räikkönen,Alfa Romeo,16,13,0.0,Finished,0
+2021,2,Emilia Romagna Grand Prix,2021-04-18,imola,giovinazzi,Antonio Giovinazzi,Alfa Romeo,17,14,0.0,+1 Lap,0
+2021,2,Emilia Romagna Grand Prix,2021-04-18,imola,vettel,Sebastian Vettel,Aston Martin,0,15,0.0,Gearbox,0
+2021,2,Emilia Romagna Grand Prix,2021-04-18,imola,mick_schumacher,Mick Schumacher,Haas F1 Team,18,16,0.0,+2 Laps,0
+2021,2,Emilia Romagna Grand Prix,2021-04-18,imola,mazepin,Nikita Mazepin,Haas F1 Team,19,17,0.0,+2 Laps,0
+2021,2,Emilia Romagna Grand Prix,2021-04-18,imola,bottas,Valtteri Bottas,Mercedes,8,18,0.0,Collision,0
+2021,2,Emilia Romagna Grand Prix,2021-04-18,imola,russell,George Russell,Williams,12,19,0.0,Collision,0
+2021,2,Emilia Romagna Grand Prix,2021-04-18,imola,latifi,Nicholas Latifi,Williams,14,20,0.0,Collision,0
+2021,3,Portuguese Grand Prix,2021-05-02,portimao,hamilton,Lewis Hamilton,Mercedes,2,1,25.0,Finished,1
+2021,3,Portuguese Grand Prix,2021-05-02,portimao,max_verstappen,Max Verstappen,Red Bull,3,2,18.0,Finished,0
+2021,3,Portuguese Grand Prix,2021-05-02,portimao,bottas,Valtteri Bottas,Mercedes,1,3,16.0,Finished,0
+2021,3,Portuguese Grand Prix,2021-05-02,portimao,perez,Sergio Pérez,Red Bull,4,4,12.0,Finished,0
+2021,3,Portuguese Grand Prix,2021-05-02,portimao,norris,Lando Norris,McLaren,7,5,10.0,Finished,0
+2021,3,Portuguese Grand Prix,2021-05-02,portimao,leclerc,Charles Leclerc,Ferrari,8,6,8.0,Finished,0
+2021,3,Portuguese Grand Prix,2021-05-02,portimao,ocon,Esteban Ocon,Alpine F1 Team,6,7,6.0,Finished,0
+2021,3,Portuguese Grand Prix,2021-05-02,portimao,alonso,Fernando Alonso,Alpine F1 Team,13,8,4.0,Finished,0
+2021,3,Portuguese Grand Prix,2021-05-02,portimao,ricciardo,Daniel Ricciardo,McLaren,16,9,2.0,Finished,0
+2021,3,Portuguese Grand Prix,2021-05-02,portimao,gasly,Pierre Gasly,AlphaTauri,9,10,1.0,Finished,0
+2021,3,Portuguese Grand Prix,2021-05-02,portimao,sainz,Carlos Sainz,Ferrari,5,11,0.0,Finished,0
+2021,3,Portuguese Grand Prix,2021-05-02,portimao,giovinazzi,Antonio Giovinazzi,Alfa Romeo,12,12,0.0,+1 Lap,0
+2021,3,Portuguese Grand Prix,2021-05-02,portimao,vettel,Sebastian Vettel,Aston Martin,10,13,0.0,+1 Lap,0
+2021,3,Portuguese Grand Prix,2021-05-02,portimao,stroll,Lance Stroll,Aston Martin,17,14,0.0,+1 Lap,0
+2021,3,Portuguese Grand Prix,2021-05-02,portimao,tsunoda,Yuki Tsunoda,AlphaTauri,14,15,0.0,+1 Lap,0
+2021,3,Portuguese Grand Prix,2021-05-02,portimao,russell,George Russell,Williams,11,16,0.0,+1 Lap,0
+2021,3,Portuguese Grand Prix,2021-05-02,portimao,mick_schumacher,Mick Schumacher,Haas F1 Team,19,17,0.0,+2 Laps,0
+2021,3,Portuguese Grand Prix,2021-05-02,portimao,latifi,Nicholas Latifi,Williams,18,18,0.0,+2 Laps,0
+2021,3,Portuguese Grand Prix,2021-05-02,portimao,mazepin,Nikita Mazepin,Haas F1 Team,20,19,0.0,+2 Laps,0
+2021,3,Portuguese Grand Prix,2021-05-02,portimao,raikkonen,Kimi Räikkönen,Alfa Romeo,15,20,0.0,Collision damage,0
+2021,4,Spanish Grand Prix,2021-05-09,catalunya,hamilton,Lewis Hamilton,Mercedes,1,1,25.0,Finished,1
+2021,4,Spanish Grand Prix,2021-05-09,catalunya,max_verstappen,Max Verstappen,Red Bull,2,2,19.0,Finished,0
+2021,4,Spanish Grand Prix,2021-05-09,catalunya,bottas,Valtteri Bottas,Mercedes,3,3,15.0,Finished,0
+2021,4,Spanish Grand Prix,2021-05-09,catalunya,leclerc,Charles Leclerc,Ferrari,4,4,12.0,Finished,0
+2021,4,Spanish Grand Prix,2021-05-09,catalunya,perez,Sergio Pérez,Red Bull,8,5,10.0,Finished,0
+2021,4,Spanish Grand Prix,2021-05-09,catalunya,ricciardo,Daniel Ricciardo,McLaren,7,6,8.0,Finished,0
+2021,4,Spanish Grand Prix,2021-05-09,catalunya,sainz,Carlos Sainz,Ferrari,6,7,6.0,Finished,0
+2021,4,Spanish Grand Prix,2021-05-09,catalunya,norris,Lando Norris,McLaren,9,8,4.0,+1 Lap,0
+2021,4,Spanish Grand Prix,2021-05-09,catalunya,ocon,Esteban Ocon,Alpine F1 Team,5,9,2.0,+1 Lap,0
+2021,4,Spanish Grand Prix,2021-05-09,catalunya,gasly,Pierre Gasly,AlphaTauri,12,10,1.0,+1 Lap,0
+2021,4,Spanish Grand Prix,2021-05-09,catalunya,stroll,Lance Stroll,Aston Martin,11,11,0.0,+1 Lap,0
+2021,4,Spanish Grand Prix,2021-05-09,catalunya,raikkonen,Kimi Räikkönen,Alfa Romeo,17,12,0.0,+1 Lap,0
+2021,4,Spanish Grand Prix,2021-05-09,catalunya,vettel,Sebastian Vettel,Aston Martin,13,13,0.0,+1 Lap,0
+2021,4,Spanish Grand Prix,2021-05-09,catalunya,russell,George Russell,Williams,15,14,0.0,+1 Lap,0
+2021,4,Spanish Grand Prix,2021-05-09,catalunya,giovinazzi,Antonio Giovinazzi,Alfa Romeo,14,15,0.0,+1 Lap,0
+2021,4,Spanish Grand Prix,2021-05-09,catalunya,latifi,Nicholas Latifi,Williams,19,16,0.0,+1 Lap,0
+2021,4,Spanish Grand Prix,2021-05-09,catalunya,alonso,Fernando Alonso,Alpine F1 Team,10,17,0.0,+1 Lap,0
+2021,4,Spanish Grand Prix,2021-05-09,catalunya,mick_schumacher,Mick Schumacher,Haas F1 Team,18,18,0.0,+2 Laps,0
+2021,4,Spanish Grand Prix,2021-05-09,catalunya,mazepin,Nikita Mazepin,Haas F1 Team,20,19,0.0,+2 Laps,0
+2021,4,Spanish Grand Prix,2021-05-09,catalunya,tsunoda,Yuki Tsunoda,AlphaTauri,16,20,0.0,Electrical,0
+2021,5,Monaco Grand Prix,2021-05-23,monaco,max_verstappen,Max Verstappen,Red Bull,2,1,25.0,Finished,1
+2021,5,Monaco Grand Prix,2021-05-23,monaco,sainz,Carlos Sainz,Ferrari,4,2,18.0,Finished,0
+2021,5,Monaco Grand Prix,2021-05-23,monaco,norris,Lando Norris,McLaren,5,3,15.0,Finished,0
+2021,5,Monaco Grand Prix,2021-05-23,monaco,perez,Sergio Pérez,Red Bull,9,4,12.0,Finished,0
+2021,5,Monaco Grand Prix,2021-05-23,monaco,vettel,Sebastian Vettel,Aston Martin,8,5,10.0,Finished,0
+2021,5,Monaco Grand Prix,2021-05-23,monaco,gasly,Pierre Gasly,AlphaTauri,6,6,8.0,Finished,0
+2021,5,Monaco Grand Prix,2021-05-23,monaco,hamilton,Lewis Hamilton,Mercedes,7,7,7.0,Finished,0
+2021,5,Monaco Grand Prix,2021-05-23,monaco,stroll,Lance Stroll,Aston Martin,13,8,4.0,+1 Lap,0
+2021,5,Monaco Grand Prix,2021-05-23,monaco,ocon,Esteban Ocon,Alpine F1 Team,11,9,2.0,+1 Lap,0
+2021,5,Monaco Grand Prix,2021-05-23,monaco,giovinazzi,Antonio Giovinazzi,Alfa Romeo,10,10,1.0,+1 Lap,0
+2021,5,Monaco Grand Prix,2021-05-23,monaco,raikkonen,Kimi Räikkönen,Alfa Romeo,14,11,0.0,+1 Lap,0
+2021,5,Monaco Grand Prix,2021-05-23,monaco,ricciardo,Daniel Ricciardo,McLaren,12,12,0.0,+1 Lap,0
+2021,5,Monaco Grand Prix,2021-05-23,monaco,alonso,Fernando Alonso,Alpine F1 Team,17,13,0.0,+1 Lap,0
+2021,5,Monaco Grand Prix,2021-05-23,monaco,russell,George Russell,Williams,15,14,0.0,+1 Lap,0
+2021,5,Monaco Grand Prix,2021-05-23,monaco,latifi,Nicholas Latifi,Williams,18,15,0.0,+1 Lap,0
+2021,5,Monaco Grand Prix,2021-05-23,monaco,tsunoda,Yuki Tsunoda,AlphaTauri,16,16,0.0,+1 Lap,0
+2021,5,Monaco Grand Prix,2021-05-23,monaco,mazepin,Nikita Mazepin,Haas F1 Team,19,17,0.0,+3 Laps,0
+2021,5,Monaco Grand Prix,2021-05-23,monaco,mick_schumacher,Mick Schumacher,Haas F1 Team,20,18,0.0,+3 Laps,0
+2021,5,Monaco Grand Prix,2021-05-23,monaco,bottas,Valtteri Bottas,Mercedes,3,19,0.0,Wheel nut,0
+2021,5,Monaco Grand Prix,2021-05-23,monaco,leclerc,Charles Leclerc,Ferrari,1,20,0.0,Driveshaft,0
+2021,6,Azerbaijan Grand Prix,2021-06-06,baku,perez,Sergio Pérez,Red Bull,6,1,25.0,Finished,1
+2021,6,Azerbaijan Grand Prix,2021-06-06,baku,vettel,Sebastian Vettel,Aston Martin,11,2,18.0,Finished,0
+2021,6,Azerbaijan Grand Prix,2021-06-06,baku,gasly,Pierre Gasly,AlphaTauri,4,3,15.0,Finished,0
+2021,6,Azerbaijan Grand Prix,2021-06-06,baku,leclerc,Charles Leclerc,Ferrari,1,4,12.0,Finished,0
+2021,6,Azerbaijan Grand Prix,2021-06-06,baku,norris,Lando Norris,McLaren,9,5,10.0,Finished,0
+2021,6,Azerbaijan Grand Prix,2021-06-06,baku,alonso,Fernando Alonso,Alpine F1 Team,8,6,8.0,Finished,0
+2021,6,Azerbaijan Grand Prix,2021-06-06,baku,tsunoda,Yuki Tsunoda,AlphaTauri,7,7,6.0,Finished,0
+2021,6,Azerbaijan Grand Prix,2021-06-06,baku,sainz,Carlos Sainz,Ferrari,5,8,4.0,Finished,0
+2021,6,Azerbaijan Grand Prix,2021-06-06,baku,ricciardo,Daniel Ricciardo,McLaren,13,9,2.0,Finished,0
+2021,6,Azerbaijan Grand Prix,2021-06-06,baku,raikkonen,Kimi Räikkönen,Alfa Romeo,14,10,1.0,Finished,0
+2021,6,Azerbaijan Grand Prix,2021-06-06,baku,giovinazzi,Antonio Giovinazzi,Alfa Romeo,20,11,0.0,Finished,0
+2021,6,Azerbaijan Grand Prix,2021-06-06,baku,bottas,Valtteri Bottas,Mercedes,10,12,0.0,Finished,0
+2021,6,Azerbaijan Grand Prix,2021-06-06,baku,mick_schumacher,Mick Schumacher,Haas F1 Team,17,13,0.0,Finished,0
+2021,6,Azerbaijan Grand Prix,2021-06-06,baku,mazepin,Nikita Mazepin,Haas F1 Team,18,14,0.0,Finished,0
+2021,6,Azerbaijan Grand Prix,2021-06-06,baku,hamilton,Lewis Hamilton,Mercedes,2,15,0.0,Finished,0
+2021,6,Azerbaijan Grand Prix,2021-06-06,baku,latifi,Nicholas Latifi,Williams,16,16,0.0,Finished,0
+2021,6,Azerbaijan Grand Prix,2021-06-06,baku,russell,George Russell,Williams,15,17,0.0,Gearbox,0
+2021,6,Azerbaijan Grand Prix,2021-06-06,baku,max_verstappen,Max Verstappen,Red Bull,3,18,0.0,Accident,0
+2021,6,Azerbaijan Grand Prix,2021-06-06,baku,stroll,Lance Stroll,Aston Martin,19,19,0.0,Accident,0
+2021,6,Azerbaijan Grand Prix,2021-06-06,baku,ocon,Esteban Ocon,Alpine F1 Team,12,20,0.0,Turbo,0
+2021,7,French Grand Prix,2021-06-20,ricard,max_verstappen,Max Verstappen,Red Bull,1,1,26.0,Finished,1
+2021,7,French Grand Prix,2021-06-20,ricard,hamilton,Lewis Hamilton,Mercedes,2,2,18.0,Finished,0
+2021,7,French Grand Prix,2021-06-20,ricard,perez,Sergio Pérez,Red Bull,4,3,15.0,Finished,0
+2021,7,French Grand Prix,2021-06-20,ricard,bottas,Valtteri Bottas,Mercedes,3,4,12.0,Finished,0
+2021,7,French Grand Prix,2021-06-20,ricard,norris,Lando Norris,McLaren,8,5,10.0,Finished,0
+2021,7,French Grand Prix,2021-06-20,ricard,ricciardo,Daniel Ricciardo,McLaren,10,6,8.0,Finished,0
+2021,7,French Grand Prix,2021-06-20,ricard,gasly,Pierre Gasly,AlphaTauri,6,7,6.0,Finished,0
+2021,7,French Grand Prix,2021-06-20,ricard,alonso,Fernando Alonso,Alpine F1 Team,9,8,4.0,Finished,0
+2021,7,French Grand Prix,2021-06-20,ricard,vettel,Sebastian Vettel,Aston Martin,12,9,2.0,Finished,0
+2021,7,French Grand Prix,2021-06-20,ricard,stroll,Lance Stroll,Aston Martin,19,10,1.0,Finished,0
+2021,7,French Grand Prix,2021-06-20,ricard,sainz,Carlos Sainz,Ferrari,5,11,0.0,Finished,0
+2021,7,French Grand Prix,2021-06-20,ricard,russell,George Russell,Williams,14,12,0.0,+1 Lap,0
+2021,7,French Grand Prix,2021-06-20,ricard,tsunoda,Yuki Tsunoda,AlphaTauri,0,13,0.0,+1 Lap,0
+2021,7,French Grand Prix,2021-06-20,ricard,ocon,Esteban Ocon,Alpine F1 Team,11,14,0.0,+1 Lap,0
+2021,7,French Grand Prix,2021-06-20,ricard,giovinazzi,Antonio Giovinazzi,Alfa Romeo,13,15,0.0,+1 Lap,0
+2021,7,French Grand Prix,2021-06-20,ricard,leclerc,Charles Leclerc,Ferrari,7,16,0.0,+1 Lap,0
+2021,7,French Grand Prix,2021-06-20,ricard,raikkonen,Kimi Räikkönen,Alfa Romeo,17,17,0.0,+1 Lap,0
+2021,7,French Grand Prix,2021-06-20,ricard,latifi,Nicholas Latifi,Williams,16,18,0.0,+1 Lap,0
+2021,7,French Grand Prix,2021-06-20,ricard,mick_schumacher,Mick Schumacher,Haas F1 Team,15,19,0.0,+1 Lap,0
+2021,7,French Grand Prix,2021-06-20,ricard,mazepin,Nikita Mazepin,Haas F1 Team,18,20,0.0,+1 Lap,0
+2021,8,Styrian Grand Prix,2021-06-27,red_bull_ring,max_verstappen,Max Verstappen,Red Bull,1,1,25.0,Finished,1
+2021,8,Styrian Grand Prix,2021-06-27,red_bull_ring,hamilton,Lewis Hamilton,Mercedes,2,2,19.0,Finished,0
+2021,8,Styrian Grand Prix,2021-06-27,red_bull_ring,bottas,Valtteri Bottas,Mercedes,5,3,15.0,Finished,0
+2021,8,Styrian Grand Prix,2021-06-27,red_bull_ring,perez,Sergio Pérez,Red Bull,4,4,12.0,Finished,0
+2021,8,Styrian Grand Prix,2021-06-27,red_bull_ring,norris,Lando Norris,McLaren,3,5,10.0,+1 Lap,0
+2021,8,Styrian Grand Prix,2021-06-27,red_bull_ring,sainz,Carlos Sainz,Ferrari,12,6,8.0,+1 Lap,0
+2021,8,Styrian Grand Prix,2021-06-27,red_bull_ring,leclerc,Charles Leclerc,Ferrari,7,7,6.0,+1 Lap,0
+2021,8,Styrian Grand Prix,2021-06-27,red_bull_ring,stroll,Lance Stroll,Aston Martin,9,8,4.0,+1 Lap,0
+2021,8,Styrian Grand Prix,2021-06-27,red_bull_ring,alonso,Fernando Alonso,Alpine F1 Team,8,9,2.0,+1 Lap,0
+2021,8,Styrian Grand Prix,2021-06-27,red_bull_ring,tsunoda,Yuki Tsunoda,AlphaTauri,11,10,1.0,+1 Lap,0
+2021,8,Styrian Grand Prix,2021-06-27,red_bull_ring,raikkonen,Kimi Räikkönen,Alfa Romeo,18,11,0.0,+1 Lap,0
+2021,8,Styrian Grand Prix,2021-06-27,red_bull_ring,vettel,Sebastian Vettel,Aston Martin,14,12,0.0,+1 Lap,0
+2021,8,Styrian Grand Prix,2021-06-27,red_bull_ring,ricciardo,Daniel Ricciardo,McLaren,13,13,0.0,+1 Lap,0
+2021,8,Styrian Grand Prix,2021-06-27,red_bull_ring,ocon,Esteban Ocon,Alpine F1 Team,17,14,0.0,+1 Lap,0
+2021,8,Styrian Grand Prix,2021-06-27,red_bull_ring,giovinazzi,Antonio Giovinazzi,Alfa Romeo,15,15,0.0,+1 Lap,0
+2021,8,Styrian Grand Prix,2021-06-27,red_bull_ring,mick_schumacher,Mick Schumacher,Haas F1 Team,19,16,0.0,+2 Laps,0
+2021,8,Styrian Grand Prix,2021-06-27,red_bull_ring,latifi,Nicholas Latifi,Williams,16,17,0.0,+3 Laps,0
+2021,8,Styrian Grand Prix,2021-06-27,red_bull_ring,mazepin,Nikita Mazepin,Haas F1 Team,20,18,0.0,+3 Laps,0
+2021,8,Styrian Grand Prix,2021-06-27,red_bull_ring,russell,George Russell,Williams,10,19,0.0,Engine,0
+2021,8,Styrian Grand Prix,2021-06-27,red_bull_ring,gasly,Pierre Gasly,AlphaTauri,6,20,0.0,Collision,0
+2021,9,Austrian Grand Prix,2021-07-04,red_bull_ring,max_verstappen,Max Verstappen,Red Bull,1,1,26.0,Finished,1
+2021,9,Austrian Grand Prix,2021-07-04,red_bull_ring,bottas,Valtteri Bottas,Mercedes,5,2,18.0,Finished,0
+2021,9,Austrian Grand Prix,2021-07-04,red_bull_ring,norris,Lando Norris,McLaren,2,3,15.0,Finished,0
+2021,9,Austrian Grand Prix,2021-07-04,red_bull_ring,hamilton,Lewis Hamilton,Mercedes,4,4,12.0,Finished,0
+2021,9,Austrian Grand Prix,2021-07-04,red_bull_ring,sainz,Carlos Sainz,Ferrari,10,5,10.0,Finished,0
+2021,9,Austrian Grand Prix,2021-07-04,red_bull_ring,perez,Sergio Pérez,Red Bull,3,6,8.0,Finished,0
+2021,9,Austrian Grand Prix,2021-07-04,red_bull_ring,ricciardo,Daniel Ricciardo,McLaren,13,7,6.0,Finished,0
+2021,9,Austrian Grand Prix,2021-07-04,red_bull_ring,leclerc,Charles Leclerc,Ferrari,12,8,4.0,Finished,0
+2021,9,Austrian Grand Prix,2021-07-04,red_bull_ring,gasly,Pierre Gasly,AlphaTauri,6,9,2.0,Finished,0
+2021,9,Austrian Grand Prix,2021-07-04,red_bull_ring,alonso,Fernando Alonso,Alpine F1 Team,14,10,1.0,+1 Lap,0
+2021,9,Austrian Grand Prix,2021-07-04,red_bull_ring,russell,George Russell,Williams,8,11,0.0,+1 Lap,0
+2021,9,Austrian Grand Prix,2021-07-04,red_bull_ring,tsunoda,Yuki Tsunoda,AlphaTauri,7,12,0.0,+1 Lap,0
+2021,9,Austrian Grand Prix,2021-07-04,red_bull_ring,stroll,Lance Stroll,Aston Martin,9,13,0.0,+1 Lap,0
+2021,9,Austrian Grand Prix,2021-07-04,red_bull_ring,giovinazzi,Antonio Giovinazzi,Alfa Romeo,15,14,0.0,+1 Lap,0
+2021,9,Austrian Grand Prix,2021-07-04,red_bull_ring,raikkonen,Kimi Räikkönen,Alfa Romeo,16,15,0.0,+1 Lap,0
+2021,9,Austrian Grand Prix,2021-07-04,red_bull_ring,latifi,Nicholas Latifi,Williams,18,16,0.0,+1 Lap,0
+2021,9,Austrian Grand Prix,2021-07-04,red_bull_ring,vettel,Sebastian Vettel,Aston Martin,11,17,0.0,Collision,0
+2021,9,Austrian Grand Prix,2021-07-04,red_bull_ring,mick_schumacher,Mick Schumacher,Haas F1 Team,19,18,0.0,+2 Laps,0
+2021,9,Austrian Grand Prix,2021-07-04,red_bull_ring,mazepin,Nikita Mazepin,Haas F1 Team,20,19,0.0,+2 Laps,0
+2021,9,Austrian Grand Prix,2021-07-04,red_bull_ring,ocon,Esteban Ocon,Alpine F1 Team,17,20,0.0,Collision,0
+2021,10,British Grand Prix,2021-07-18,silverstone,hamilton,Lewis Hamilton,Mercedes,2,1,25.0,Finished,1
+2021,10,British Grand Prix,2021-07-18,silverstone,leclerc,Charles Leclerc,Ferrari,4,2,18.0,Finished,0
+2021,10,British Grand Prix,2021-07-18,silverstone,bottas,Valtteri Bottas,Mercedes,3,3,15.0,Finished,0
+2021,10,British Grand Prix,2021-07-18,silverstone,norris,Lando Norris,McLaren,5,4,12.0,Finished,0
+2021,10,British Grand Prix,2021-07-18,silverstone,ricciardo,Daniel Ricciardo,McLaren,6,5,10.0,Finished,0
+2021,10,British Grand Prix,2021-07-18,silverstone,sainz,Carlos Sainz,Ferrari,10,6,8.0,Finished,0
+2021,10,British Grand Prix,2021-07-18,silverstone,alonso,Fernando Alonso,Alpine F1 Team,7,7,6.0,Finished,0
+2021,10,British Grand Prix,2021-07-18,silverstone,stroll,Lance Stroll,Aston Martin,14,8,4.0,Finished,0
+2021,10,British Grand Prix,2021-07-18,silverstone,ocon,Esteban Ocon,Alpine F1 Team,9,9,2.0,Finished,0
+2021,10,British Grand Prix,2021-07-18,silverstone,tsunoda,Yuki Tsunoda,AlphaTauri,16,10,1.0,Finished,0
+2021,10,British Grand Prix,2021-07-18,silverstone,gasly,Pierre Gasly,AlphaTauri,11,11,0.0,Finished,0
+2021,10,British Grand Prix,2021-07-18,silverstone,russell,George Russell,Williams,12,12,0.0,+1 Lap,0
+2021,10,British Grand Prix,2021-07-18,silverstone,giovinazzi,Antonio Giovinazzi,Alfa Romeo,15,13,0.0,+1 Lap,0
+2021,10,British Grand Prix,2021-07-18,silverstone,latifi,Nicholas Latifi,Williams,17,14,0.0,+1 Lap,0
+2021,10,British Grand Prix,2021-07-18,silverstone,raikkonen,Kimi Räikkönen,Alfa Romeo,13,15,0.0,+1 Lap,0
+2021,10,British Grand Prix,2021-07-18,silverstone,perez,Sergio Pérez,Red Bull,0,16,0.0,+1 Lap,0
+2021,10,British Grand Prix,2021-07-18,silverstone,mazepin,Nikita Mazepin,Haas F1 Team,19,17,0.0,+1 Lap,0
+2021,10,British Grand Prix,2021-07-18,silverstone,mick_schumacher,Mick Schumacher,Haas F1 Team,18,18,0.0,+1 Lap,0
+2021,10,British Grand Prix,2021-07-18,silverstone,vettel,Sebastian Vettel,Aston Martin,8,19,0.0,Retired,0
+2021,10,British Grand Prix,2021-07-18,silverstone,max_verstappen,Max Verstappen,Red Bull,1,20,0.0,Collision,0
+2021,11,Hungarian Grand Prix,2021-08-01,hungaroring,ocon,Esteban Ocon,Alpine F1 Team,8,1,25.0,Finished,1
+2021,11,Hungarian Grand Prix,2021-08-01,hungaroring,hamilton,Lewis Hamilton,Mercedes,1,2,18.0,Finished,0
+2021,11,Hungarian Grand Prix,2021-08-01,hungaroring,sainz,Carlos Sainz,Ferrari,15,3,15.0,Finished,0
+2021,11,Hungarian Grand Prix,2021-08-01,hungaroring,alonso,Fernando Alonso,Alpine F1 Team,9,4,12.0,Finished,0
+2021,11,Hungarian Grand Prix,2021-08-01,hungaroring,gasly,Pierre Gasly,AlphaTauri,5,5,11.0,Finished,0
+2021,11,Hungarian Grand Prix,2021-08-01,hungaroring,tsunoda,Yuki Tsunoda,AlphaTauri,16,6,8.0,Finished,0
+2021,11,Hungarian Grand Prix,2021-08-01,hungaroring,latifi,Nicholas Latifi,Williams,18,7,6.0,Finished,0
+2021,11,Hungarian Grand Prix,2021-08-01,hungaroring,russell,George Russell,Williams,17,8,4.0,Finished,0
+2021,11,Hungarian Grand Prix,2021-08-01,hungaroring,max_verstappen,Max Verstappen,Red Bull,3,9,2.0,Finished,0
+2021,11,Hungarian Grand Prix,2021-08-01,hungaroring,raikkonen,Kimi Räikkönen,Alfa Romeo,13,10,1.0,+1 Lap,0
+2021,11,Hungarian Grand Prix,2021-08-01,hungaroring,ricciardo,Daniel Ricciardo,McLaren,11,11,0.0,+1 Lap,0
+2021,11,Hungarian Grand Prix,2021-08-01,hungaroring,mick_schumacher,Mick Schumacher,Haas F1 Team,20,12,0.0,+1 Lap,0
+2021,11,Hungarian Grand Prix,2021-08-01,hungaroring,giovinazzi,Antonio Giovinazzi,Alfa Romeo,0,13,0.0,+1 Lap,0
+2021,11,Hungarian Grand Prix,2021-08-01,hungaroring,mazepin,Nikita Mazepin,Haas F1 Team,19,14,0.0,Collision,0
+2021,11,Hungarian Grand Prix,2021-08-01,hungaroring,norris,Lando Norris,McLaren,6,15,0.0,Collision,0
+2021,11,Hungarian Grand Prix,2021-08-01,hungaroring,bottas,Valtteri Bottas,Mercedes,2,16,0.0,Collision,0
+2021,11,Hungarian Grand Prix,2021-08-01,hungaroring,perez,Sergio Pérez,Red Bull,4,17,0.0,Collision,0
+2021,11,Hungarian Grand Prix,2021-08-01,hungaroring,leclerc,Charles Leclerc,Ferrari,7,18,0.0,Collision,0
+2021,11,Hungarian Grand Prix,2021-08-01,hungaroring,stroll,Lance Stroll,Aston Martin,12,19,0.0,Collision,0
+2021,11,Hungarian Grand Prix,2021-08-01,hungaroring,vettel,Sebastian Vettel,Aston Martin,10,20,0.0,Disqualified,0
+2021,12,Belgian Grand Prix,2021-08-29,spa,max_verstappen,Max Verstappen,Red Bull,1,1,12.5,Finished,1
+2021,12,Belgian Grand Prix,2021-08-29,spa,russell,George Russell,Williams,2,2,9.0,Finished,0
+2021,12,Belgian Grand Prix,2021-08-29,spa,hamilton,Lewis Hamilton,Mercedes,3,3,7.5,Finished,0
+2021,12,Belgian Grand Prix,2021-08-29,spa,ricciardo,Daniel Ricciardo,McLaren,4,4,6.0,Finished,0
+2021,12,Belgian Grand Prix,2021-08-29,spa,vettel,Sebastian Vettel,Aston Martin,5,5,5.0,Finished,0
+2021,12,Belgian Grand Prix,2021-08-29,spa,gasly,Pierre Gasly,AlphaTauri,6,6,4.0,Finished,0
+2021,12,Belgian Grand Prix,2021-08-29,spa,ocon,Esteban Ocon,Alpine F1 Team,8,7,3.0,Finished,0
+2021,12,Belgian Grand Prix,2021-08-29,spa,leclerc,Charles Leclerc,Ferrari,9,8,2.0,Finished,0
+2021,12,Belgian Grand Prix,2021-08-29,spa,latifi,Nicholas Latifi,Williams,10,9,1.0,Finished,0
+2021,12,Belgian Grand Prix,2021-08-29,spa,sainz,Carlos Sainz,Ferrari,11,10,0.5,Finished,0
+2021,12,Belgian Grand Prix,2021-08-29,spa,alonso,Fernando Alonso,Alpine F1 Team,12,11,0.0,Finished,0
+2021,12,Belgian Grand Prix,2021-08-29,spa,bottas,Valtteri Bottas,Mercedes,13,12,0.0,Finished,0
+2021,12,Belgian Grand Prix,2021-08-29,spa,giovinazzi,Antonio Giovinazzi,Alfa Romeo,14,13,0.0,Finished,0
+2021,12,Belgian Grand Prix,2021-08-29,spa,norris,Lando Norris,McLaren,15,14,0.0,Finished,0
+2021,12,Belgian Grand Prix,2021-08-29,spa,tsunoda,Yuki Tsunoda,AlphaTauri,16,15,0.0,Finished,0
+2021,12,Belgian Grand Prix,2021-08-29,spa,mick_schumacher,Mick Schumacher,Haas F1 Team,17,16,0.0,Finished,0
+2021,12,Belgian Grand Prix,2021-08-29,spa,mazepin,Nikita Mazepin,Haas F1 Team,18,17,0.0,Finished,0
+2021,12,Belgian Grand Prix,2021-08-29,spa,raikkonen,Kimi Räikkönen,Alfa Romeo,0,18,0.0,Finished,0
+2021,12,Belgian Grand Prix,2021-08-29,spa,perez,Sergio Pérez,Red Bull,0,19,0.0,Finished,0
+2021,12,Belgian Grand Prix,2021-08-29,spa,stroll,Lance Stroll,Aston Martin,19,20,0.0,Finished,0
+2021,13,Dutch Grand Prix,2021-09-05,zandvoort,max_verstappen,Max Verstappen,Red Bull,1,1,25.0,Finished,1
+2021,13,Dutch Grand Prix,2021-09-05,zandvoort,hamilton,Lewis Hamilton,Mercedes,2,2,19.0,Finished,0
+2021,13,Dutch Grand Prix,2021-09-05,zandvoort,bottas,Valtteri Bottas,Mercedes,3,3,15.0,Finished,0
+2021,13,Dutch Grand Prix,2021-09-05,zandvoort,gasly,Pierre Gasly,AlphaTauri,4,4,12.0,+1 Lap,0
+2021,13,Dutch Grand Prix,2021-09-05,zandvoort,leclerc,Charles Leclerc,Ferrari,5,5,10.0,+1 Lap,0
+2021,13,Dutch Grand Prix,2021-09-05,zandvoort,alonso,Fernando Alonso,Alpine F1 Team,9,6,8.0,+1 Lap,0
+2021,13,Dutch Grand Prix,2021-09-05,zandvoort,sainz,Carlos Sainz,Ferrari,6,7,6.0,+1 Lap,0
+2021,13,Dutch Grand Prix,2021-09-05,zandvoort,perez,Sergio Pérez,Red Bull,0,8,4.0,+1 Lap,0
+2021,13,Dutch Grand Prix,2021-09-05,zandvoort,ocon,Esteban Ocon,Alpine F1 Team,8,9,2.0,+1 Lap,0
+2021,13,Dutch Grand Prix,2021-09-05,zandvoort,norris,Lando Norris,McLaren,13,10,1.0,+1 Lap,0
+2021,13,Dutch Grand Prix,2021-09-05,zandvoort,ricciardo,Daniel Ricciardo,McLaren,10,11,0.0,+1 Lap,0
+2021,13,Dutch Grand Prix,2021-09-05,zandvoort,stroll,Lance Stroll,Aston Martin,12,12,0.0,+2 Laps,0
+2021,13,Dutch Grand Prix,2021-09-05,zandvoort,vettel,Sebastian Vettel,Aston Martin,15,13,0.0,+2 Laps,0
+2021,13,Dutch Grand Prix,2021-09-05,zandvoort,giovinazzi,Antonio Giovinazzi,Alfa Romeo,7,14,0.0,+2 Laps,0
+2021,13,Dutch Grand Prix,2021-09-05,zandvoort,kubica,Robert Kubica,Alfa Romeo,16,15,0.0,+2 Laps,0
+2021,13,Dutch Grand Prix,2021-09-05,zandvoort,latifi,Nicholas Latifi,Williams,0,16,0.0,+2 Laps,0
+2021,13,Dutch Grand Prix,2021-09-05,zandvoort,russell,George Russell,Williams,11,17,0.0,Gearbox,0
+2021,13,Dutch Grand Prix,2021-09-05,zandvoort,mick_schumacher,Mick Schumacher,Haas F1 Team,17,18,0.0,+3 Laps,0
+2021,13,Dutch Grand Prix,2021-09-05,zandvoort,tsunoda,Yuki Tsunoda,AlphaTauri,14,19,0.0,Power Unit,0
+2021,13,Dutch Grand Prix,2021-09-05,zandvoort,mazepin,Nikita Mazepin,Haas F1 Team,18,20,0.0,Hydraulics,0
+2021,14,Italian Grand Prix,2021-09-12,monza,ricciardo,Daniel Ricciardo,McLaren,2,1,26.0,Finished,1
+2021,14,Italian Grand Prix,2021-09-12,monza,norris,Lando Norris,McLaren,3,2,18.0,Finished,0
+2021,14,Italian Grand Prix,2021-09-12,monza,bottas,Valtteri Bottas,Mercedes,19,3,15.0,Finished,0
+2021,14,Italian Grand Prix,2021-09-12,monza,leclerc,Charles Leclerc,Ferrari,5,4,12.0,Finished,0
+2021,14,Italian Grand Prix,2021-09-12,monza,perez,Sergio Pérez,Red Bull,8,5,10.0,Finished,0
+2021,14,Italian Grand Prix,2021-09-12,monza,sainz,Carlos Sainz,Ferrari,6,6,8.0,Finished,0
+2021,14,Italian Grand Prix,2021-09-12,monza,stroll,Lance Stroll,Aston Martin,9,7,6.0,Finished,0
+2021,14,Italian Grand Prix,2021-09-12,monza,alonso,Fernando Alonso,Alpine F1 Team,10,8,4.0,Finished,0
+2021,14,Italian Grand Prix,2021-09-12,monza,russell,George Russell,Williams,14,9,2.0,Finished,0
+2021,14,Italian Grand Prix,2021-09-12,monza,ocon,Esteban Ocon,Alpine F1 Team,12,10,1.0,Finished,0
+2021,14,Italian Grand Prix,2021-09-12,monza,latifi,Nicholas Latifi,Williams,13,11,0.0,Finished,0
+2021,14,Italian Grand Prix,2021-09-12,monza,vettel,Sebastian Vettel,Aston Martin,11,12,0.0,Finished,0
+2021,14,Italian Grand Prix,2021-09-12,monza,giovinazzi,Antonio Giovinazzi,Alfa Romeo,7,13,0.0,Finished,0
+2021,14,Italian Grand Prix,2021-09-12,monza,kubica,Robert Kubica,Alfa Romeo,17,14,0.0,Finished,0
+2021,14,Italian Grand Prix,2021-09-12,monza,mick_schumacher,Mick Schumacher,Haas F1 Team,18,15,0.0,Finished,0
+2021,14,Italian Grand Prix,2021-09-12,monza,mazepin,Nikita Mazepin,Haas F1 Team,16,16,0.0,Power Unit,0
+2021,14,Italian Grand Prix,2021-09-12,monza,hamilton,Lewis Hamilton,Mercedes,4,17,0.0,Collision,0
+2021,14,Italian Grand Prix,2021-09-12,monza,max_verstappen,Max Verstappen,Red Bull,1,18,0.0,Collision,0
+2021,14,Italian Grand Prix,2021-09-12,monza,gasly,Pierre Gasly,AlphaTauri,0,19,0.0,Suspension,0
+2021,14,Italian Grand Prix,2021-09-12,monza,tsunoda,Yuki Tsunoda,AlphaTauri,0,20,0.0,Brakes,0
+2021,15,Russian Grand Prix,2021-09-26,sochi,hamilton,Lewis Hamilton,Mercedes,4,1,25.0,Finished,1
+2021,15,Russian Grand Prix,2021-09-26,sochi,max_verstappen,Max Verstappen,Red Bull,20,2,18.0,Finished,0
+2021,15,Russian Grand Prix,2021-09-26,sochi,sainz,Carlos Sainz,Ferrari,2,3,15.0,Finished,0
+2021,15,Russian Grand Prix,2021-09-26,sochi,ricciardo,Daniel Ricciardo,McLaren,5,4,12.0,Finished,0
+2021,15,Russian Grand Prix,2021-09-26,sochi,bottas,Valtteri Bottas,Mercedes,16,5,10.0,Finished,0
+2021,15,Russian Grand Prix,2021-09-26,sochi,alonso,Fernando Alonso,Alpine F1 Team,6,6,8.0,Finished,0
+2021,15,Russian Grand Prix,2021-09-26,sochi,norris,Lando Norris,McLaren,1,7,7.0,Finished,0
+2021,15,Russian Grand Prix,2021-09-26,sochi,raikkonen,Kimi Räikkönen,Alfa Romeo,13,8,4.0,Finished,0
+2021,15,Russian Grand Prix,2021-09-26,sochi,perez,Sergio Pérez,Red Bull,8,9,2.0,Finished,0
+2021,15,Russian Grand Prix,2021-09-26,sochi,russell,George Russell,Williams,3,10,1.0,Finished,0
+2021,15,Russian Grand Prix,2021-09-26,sochi,stroll,Lance Stroll,Aston Martin,7,11,0.0,Finished,0
+2021,15,Russian Grand Prix,2021-09-26,sochi,vettel,Sebastian Vettel,Aston Martin,10,12,0.0,+1 Lap,0
+2021,15,Russian Grand Prix,2021-09-26,sochi,gasly,Pierre Gasly,AlphaTauri,11,13,0.0,+1 Lap,0
+2021,15,Russian Grand Prix,2021-09-26,sochi,ocon,Esteban Ocon,Alpine F1 Team,9,14,0.0,+1 Lap,0
+2021,15,Russian Grand Prix,2021-09-26,sochi,leclerc,Charles Leclerc,Ferrari,19,15,0.0,+1 Lap,0
+2021,15,Russian Grand Prix,2021-09-26,sochi,giovinazzi,Antonio Giovinazzi,Alfa Romeo,17,16,0.0,+1 Lap,0
+2021,15,Russian Grand Prix,2021-09-26,sochi,tsunoda,Yuki Tsunoda,AlphaTauri,12,17,0.0,+1 Lap,0
+2021,15,Russian Grand Prix,2021-09-26,sochi,mazepin,Nikita Mazepin,Haas F1 Team,15,18,0.0,+2 Laps,0
+2021,15,Russian Grand Prix,2021-09-26,sochi,latifi,Nicholas Latifi,Williams,18,19,0.0,Accident,0
+2021,15,Russian Grand Prix,2021-09-26,sochi,mick_schumacher,Mick Schumacher,Haas F1 Team,14,20,0.0,Oil leak,0
+2021,16,Turkish Grand Prix,2021-10-10,istanbul,bottas,Valtteri Bottas,Mercedes,1,1,26.0,Finished,1
+2021,16,Turkish Grand Prix,2021-10-10,istanbul,max_verstappen,Max Verstappen,Red Bull,2,2,18.0,Finished,0
+2021,16,Turkish Grand Prix,2021-10-10,istanbul,perez,Sergio Pérez,Red Bull,6,3,15.0,Finished,0
+2021,16,Turkish Grand Prix,2021-10-10,istanbul,leclerc,Charles Leclerc,Ferrari,3,4,12.0,Finished,0
+2021,16,Turkish Grand Prix,2021-10-10,istanbul,hamilton,Lewis Hamilton,Mercedes,11,5,10.0,Finished,0
+2021,16,Turkish Grand Prix,2021-10-10,istanbul,gasly,Pierre Gasly,AlphaTauri,4,6,8.0,Finished,0
+2021,16,Turkish Grand Prix,2021-10-10,istanbul,norris,Lando Norris,McLaren,7,7,6.0,Finished,0
+2021,16,Turkish Grand Prix,2021-10-10,istanbul,sainz,Carlos Sainz,Ferrari,19,8,4.0,Finished,0
+2021,16,Turkish Grand Prix,2021-10-10,istanbul,stroll,Lance Stroll,Aston Martin,8,9,2.0,Finished,0
+2021,16,Turkish Grand Prix,2021-10-10,istanbul,ocon,Esteban Ocon,Alpine F1 Team,12,10,1.0,+1 Lap,0
+2021,16,Turkish Grand Prix,2021-10-10,istanbul,giovinazzi,Antonio Giovinazzi,Alfa Romeo,16,11,0.0,+1 Lap,0
+2021,16,Turkish Grand Prix,2021-10-10,istanbul,raikkonen,Kimi Räikkönen,Alfa Romeo,17,12,0.0,+1 Lap,0
+2021,16,Turkish Grand Prix,2021-10-10,istanbul,ricciardo,Daniel Ricciardo,McLaren,20,13,0.0,+1 Lap,0
+2021,16,Turkish Grand Prix,2021-10-10,istanbul,tsunoda,Yuki Tsunoda,AlphaTauri,9,14,0.0,+1 Lap,0
+2021,16,Turkish Grand Prix,2021-10-10,istanbul,russell,George Russell,Williams,13,15,0.0,+1 Lap,0
+2021,16,Turkish Grand Prix,2021-10-10,istanbul,alonso,Fernando Alonso,Alpine F1 Team,5,16,0.0,+1 Lap,0
+2021,16,Turkish Grand Prix,2021-10-10,istanbul,latifi,Nicholas Latifi,Williams,15,17,0.0,+1 Lap,0
+2021,16,Turkish Grand Prix,2021-10-10,istanbul,vettel,Sebastian Vettel,Aston Martin,10,18,0.0,+1 Lap,0
+2021,16,Turkish Grand Prix,2021-10-10,istanbul,mick_schumacher,Mick Schumacher,Haas F1 Team,14,19,0.0,+2 Laps,0
+2021,16,Turkish Grand Prix,2021-10-10,istanbul,mazepin,Nikita Mazepin,Haas F1 Team,18,20,0.0,+2 Laps,0
+2021,17,United States Grand Prix,2021-10-24,americas,max_verstappen,Max Verstappen,Red Bull,1,1,25.0,Finished,1
+2021,17,United States Grand Prix,2021-10-24,americas,hamilton,Lewis Hamilton,Mercedes,2,2,19.0,Finished,0
+2021,17,United States Grand Prix,2021-10-24,americas,perez,Sergio Pérez,Red Bull,3,3,15.0,Finished,0
+2021,17,United States Grand Prix,2021-10-24,americas,leclerc,Charles Leclerc,Ferrari,4,4,12.0,Finished,0
+2021,17,United States Grand Prix,2021-10-24,americas,ricciardo,Daniel Ricciardo,McLaren,6,5,10.0,Finished,0
+2021,17,United States Grand Prix,2021-10-24,americas,bottas,Valtteri Bottas,Mercedes,9,6,8.0,Finished,0
+2021,17,United States Grand Prix,2021-10-24,americas,sainz,Carlos Sainz,Ferrari,5,7,6.0,Finished,0
+2021,17,United States Grand Prix,2021-10-24,americas,norris,Lando Norris,McLaren,7,8,4.0,Finished,0
+2021,17,United States Grand Prix,2021-10-24,americas,tsunoda,Yuki Tsunoda,AlphaTauri,10,9,2.0,+1 Lap,0
+2021,17,United States Grand Prix,2021-10-24,americas,vettel,Sebastian Vettel,Aston Martin,18,10,1.0,+1 Lap,0
+2021,17,United States Grand Prix,2021-10-24,americas,giovinazzi,Antonio Giovinazzi,Alfa Romeo,12,11,0.0,+1 Lap,0
+2021,17,United States Grand Prix,2021-10-24,americas,stroll,Lance Stroll,Aston Martin,13,12,0.0,+1 Lap,0
+2021,17,United States Grand Prix,2021-10-24,americas,raikkonen,Kimi Räikkönen,Alfa Romeo,15,13,0.0,+1 Lap,0
+2021,17,United States Grand Prix,2021-10-24,americas,russell,George Russell,Williams,20,14,0.0,+1 Lap,0
+2021,17,United States Grand Prix,2021-10-24,americas,latifi,Nicholas Latifi,Williams,14,15,0.0,+1 Lap,0
+2021,17,United States Grand Prix,2021-10-24,americas,mick_schumacher,Mick Schumacher,Haas F1 Team,16,16,0.0,+2 Laps,0
+2021,17,United States Grand Prix,2021-10-24,americas,mazepin,Nikita Mazepin,Haas F1 Team,17,17,0.0,+2 Laps,0
+2021,17,United States Grand Prix,2021-10-24,americas,alonso,Fernando Alonso,Alpine F1 Team,19,18,0.0,Rear wing,0
+2021,17,United States Grand Prix,2021-10-24,americas,ocon,Esteban Ocon,Alpine F1 Team,11,19,0.0,Mechanical,0
+2021,17,United States Grand Prix,2021-10-24,americas,gasly,Pierre Gasly,AlphaTauri,8,20,0.0,Suspension,0
+2021,18,Mexico City Grand Prix,2021-11-07,rodriguez,max_verstappen,Max Verstappen,Red Bull,3,1,25.0,Finished,1
+2021,18,Mexico City Grand Prix,2021-11-07,rodriguez,hamilton,Lewis Hamilton,Mercedes,2,2,18.0,Finished,0
+2021,18,Mexico City Grand Prix,2021-11-07,rodriguez,perez,Sergio Pérez,Red Bull,4,3,15.0,Finished,0
+2021,18,Mexico City Grand Prix,2021-11-07,rodriguez,gasly,Pierre Gasly,AlphaTauri,5,4,12.0,Finished,0
+2021,18,Mexico City Grand Prix,2021-11-07,rodriguez,leclerc,Charles Leclerc,Ferrari,8,5,10.0,Finished,0
+2021,18,Mexico City Grand Prix,2021-11-07,rodriguez,sainz,Carlos Sainz,Ferrari,6,6,8.0,+1 Lap,0
+2021,18,Mexico City Grand Prix,2021-11-07,rodriguez,vettel,Sebastian Vettel,Aston Martin,9,7,6.0,+1 Lap,0
+2021,18,Mexico City Grand Prix,2021-11-07,rodriguez,raikkonen,Kimi Räikkönen,Alfa Romeo,10,8,4.0,+1 Lap,0
+2021,18,Mexico City Grand Prix,2021-11-07,rodriguez,alonso,Fernando Alonso,Alpine F1 Team,12,9,2.0,+1 Lap,0
+2021,18,Mexico City Grand Prix,2021-11-07,rodriguez,norris,Lando Norris,McLaren,18,10,1.0,+1 Lap,0
+2021,18,Mexico City Grand Prix,2021-11-07,rodriguez,giovinazzi,Antonio Giovinazzi,Alfa Romeo,11,11,0.0,+1 Lap,0
+2021,18,Mexico City Grand Prix,2021-11-07,rodriguez,ricciardo,Daniel Ricciardo,McLaren,7,12,0.0,+1 Lap,0
+2021,18,Mexico City Grand Prix,2021-11-07,rodriguez,ocon,Esteban Ocon,Alpine F1 Team,19,13,0.0,+1 Lap,0
+2021,18,Mexico City Grand Prix,2021-11-07,rodriguez,stroll,Lance Stroll,Aston Martin,20,14,0.0,+2 Laps,0
+2021,18,Mexico City Grand Prix,2021-11-07,rodriguez,bottas,Valtteri Bottas,Mercedes,1,15,0.0,+2 Laps,0
+2021,18,Mexico City Grand Prix,2021-11-07,rodriguez,russell,George Russell,Williams,16,16,0.0,+2 Laps,0
+2021,18,Mexico City Grand Prix,2021-11-07,rodriguez,latifi,Nicholas Latifi,Williams,13,17,0.0,+2 Laps,0
+2021,18,Mexico City Grand Prix,2021-11-07,rodriguez,mazepin,Nikita Mazepin,Haas F1 Team,15,18,0.0,+3 Laps,0
+2021,18,Mexico City Grand Prix,2021-11-07,rodriguez,mick_schumacher,Mick Schumacher,Haas F1 Team,14,19,0.0,Collision,0
+2021,18,Mexico City Grand Prix,2021-11-07,rodriguez,tsunoda,Yuki Tsunoda,AlphaTauri,17,20,0.0,Collision,0
+2021,19,São Paulo Grand Prix,2021-11-14,interlagos,hamilton,Lewis Hamilton,Mercedes,10,1,25.0,Finished,1
+2021,19,São Paulo Grand Prix,2021-11-14,interlagos,max_verstappen,Max Verstappen,Red Bull,2,2,18.0,Finished,0
+2021,19,São Paulo Grand Prix,2021-11-14,interlagos,bottas,Valtteri Bottas,Mercedes,1,3,15.0,Finished,0
+2021,19,São Paulo Grand Prix,2021-11-14,interlagos,perez,Sergio Pérez,Red Bull,4,4,13.0,Finished,0
+2021,19,São Paulo Grand Prix,2021-11-14,interlagos,leclerc,Charles Leclerc,Ferrari,6,5,10.0,Finished,0
+2021,19,São Paulo Grand Prix,2021-11-14,interlagos,sainz,Carlos Sainz,Ferrari,3,6,8.0,Finished,0
+2021,19,São Paulo Grand Prix,2021-11-14,interlagos,gasly,Pierre Gasly,AlphaTauri,7,7,6.0,+1 Lap,0
+2021,19,São Paulo Grand Prix,2021-11-14,interlagos,ocon,Esteban Ocon,Alpine F1 Team,8,8,4.0,+1 Lap,0
+2021,19,São Paulo Grand Prix,2021-11-14,interlagos,alonso,Fernando Alonso,Alpine F1 Team,12,9,2.0,+1 Lap,0
+2021,19,São Paulo Grand Prix,2021-11-14,interlagos,norris,Lando Norris,McLaren,5,10,1.0,+1 Lap,0
+2021,19,São Paulo Grand Prix,2021-11-14,interlagos,vettel,Sebastian Vettel,Aston Martin,9,11,0.0,+1 Lap,0
+2021,19,São Paulo Grand Prix,2021-11-14,interlagos,raikkonen,Kimi Räikkönen,Alfa Romeo,0,12,0.0,+1 Lap,0
+2021,19,São Paulo Grand Prix,2021-11-14,interlagos,russell,George Russell,Williams,17,13,0.0,+1 Lap,0
+2021,19,São Paulo Grand Prix,2021-11-14,interlagos,giovinazzi,Antonio Giovinazzi,Alfa Romeo,13,14,0.0,+1 Lap,0
+2021,19,São Paulo Grand Prix,2021-11-14,interlagos,tsunoda,Yuki Tsunoda,AlphaTauri,15,15,0.0,+1 Lap,0
+2021,19,São Paulo Grand Prix,2021-11-14,interlagos,latifi,Nicholas Latifi,Williams,16,16,0.0,+1 Lap,0
+2021,19,São Paulo Grand Prix,2021-11-14,interlagos,mazepin,Nikita Mazepin,Haas F1 Team,19,17,0.0,+2 Laps,0
+2021,19,São Paulo Grand Prix,2021-11-14,interlagos,mick_schumacher,Mick Schumacher,Haas F1 Team,18,18,0.0,+2 Laps,0
+2021,19,São Paulo Grand Prix,2021-11-14,interlagos,ricciardo,Daniel Ricciardo,McLaren,11,19,0.0,Power loss,0
+2021,19,São Paulo Grand Prix,2021-11-14,interlagos,stroll,Lance Stroll,Aston Martin,14,20,0.0,Collision damage,0
+2021,20,Qatar Grand Prix,2021-11-21,losail,hamilton,Lewis Hamilton,Mercedes,1,1,25.0,Finished,1
+2021,20,Qatar Grand Prix,2021-11-21,losail,max_verstappen,Max Verstappen,Red Bull,7,2,19.0,Finished,0
+2021,20,Qatar Grand Prix,2021-11-21,losail,alonso,Fernando Alonso,Alpine F1 Team,3,3,15.0,Finished,0
+2021,20,Qatar Grand Prix,2021-11-21,losail,perez,Sergio Pérez,Red Bull,11,4,12.0,Finished,0
+2021,20,Qatar Grand Prix,2021-11-21,losail,ocon,Esteban Ocon,Alpine F1 Team,9,5,10.0,Finished,0
+2021,20,Qatar Grand Prix,2021-11-21,losail,stroll,Lance Stroll,Aston Martin,12,6,8.0,Finished,0
+2021,20,Qatar Grand Prix,2021-11-21,losail,sainz,Carlos Sainz,Ferrari,5,7,6.0,Finished,0
+2021,20,Qatar Grand Prix,2021-11-21,losail,leclerc,Charles Leclerc,Ferrari,13,8,4.0,Finished,0
+2021,20,Qatar Grand Prix,2021-11-21,losail,norris,Lando Norris,McLaren,4,9,2.0,+1 Lap,0
+2021,20,Qatar Grand Prix,2021-11-21,losail,vettel,Sebastian Vettel,Aston Martin,10,10,1.0,+1 Lap,0
+2021,20,Qatar Grand Prix,2021-11-21,losail,gasly,Pierre Gasly,AlphaTauri,2,11,0.0,+1 Lap,0
+2021,20,Qatar Grand Prix,2021-11-21,losail,ricciardo,Daniel Ricciardo,McLaren,14,12,0.0,+1 Lap,0
+2021,20,Qatar Grand Prix,2021-11-21,losail,tsunoda,Yuki Tsunoda,AlphaTauri,8,13,0.0,+1 Lap,0
+2021,20,Qatar Grand Prix,2021-11-21,losail,raikkonen,Kimi Räikkönen,Alfa Romeo,16,14,0.0,+1 Lap,0
+2021,20,Qatar Grand Prix,2021-11-21,losail,giovinazzi,Antonio Giovinazzi,Alfa Romeo,18,15,0.0,+1 Lap,0
+2021,20,Qatar Grand Prix,2021-11-21,losail,mick_schumacher,Mick Schumacher,Haas F1 Team,19,16,0.0,+1 Lap,0
+2021,20,Qatar Grand Prix,2021-11-21,losail,russell,George Russell,Williams,15,17,0.0,+2 Laps,0
+2021,20,Qatar Grand Prix,2021-11-21,losail,mazepin,Nikita Mazepin,Haas F1 Team,20,18,0.0,+2 Laps,0
+2021,20,Qatar Grand Prix,2021-11-21,losail,latifi,Nicholas Latifi,Williams,17,19,0.0,Puncture,0
+2021,20,Qatar Grand Prix,2021-11-21,losail,bottas,Valtteri Bottas,Mercedes,6,20,0.0,Damage,0
+2021,21,Saudi Arabian Grand Prix,2021-12-05,jeddah,hamilton,Lewis Hamilton,Mercedes,1,1,26.0,Finished,1
+2021,21,Saudi Arabian Grand Prix,2021-12-05,jeddah,max_verstappen,Max Verstappen,Red Bull,3,2,18.0,Finished,0
+2021,21,Saudi Arabian Grand Prix,2021-12-05,jeddah,bottas,Valtteri Bottas,Mercedes,2,3,15.0,Finished,0
+2021,21,Saudi Arabian Grand Prix,2021-12-05,jeddah,ocon,Esteban Ocon,Alpine F1 Team,9,4,12.0,Finished,0
+2021,21,Saudi Arabian Grand Prix,2021-12-05,jeddah,ricciardo,Daniel Ricciardo,McLaren,11,5,10.0,Finished,0
+2021,21,Saudi Arabian Grand Prix,2021-12-05,jeddah,gasly,Pierre Gasly,AlphaTauri,6,6,8.0,Finished,0
+2021,21,Saudi Arabian Grand Prix,2021-12-05,jeddah,leclerc,Charles Leclerc,Ferrari,4,7,6.0,Finished,0
+2021,21,Saudi Arabian Grand Prix,2021-12-05,jeddah,sainz,Carlos Sainz,Ferrari,15,8,4.0,Finished,0
+2021,21,Saudi Arabian Grand Prix,2021-12-05,jeddah,giovinazzi,Antonio Giovinazzi,Alfa Romeo,10,9,2.0,Finished,0
+2021,21,Saudi Arabian Grand Prix,2021-12-05,jeddah,norris,Lando Norris,McLaren,7,10,1.0,Finished,0
+2021,21,Saudi Arabian Grand Prix,2021-12-05,jeddah,stroll,Lance Stroll,Aston Martin,18,11,0.0,Finished,0
+2021,21,Saudi Arabian Grand Prix,2021-12-05,jeddah,latifi,Nicholas Latifi,Williams,16,12,0.0,Finished,0
+2021,21,Saudi Arabian Grand Prix,2021-12-05,jeddah,alonso,Fernando Alonso,Alpine F1 Team,13,13,0.0,+1 Lap,0
+2021,21,Saudi Arabian Grand Prix,2021-12-05,jeddah,tsunoda,Yuki Tsunoda,AlphaTauri,8,14,0.0,+1 Lap,0
+2021,21,Saudi Arabian Grand Prix,2021-12-05,jeddah,raikkonen,Kimi Räikkönen,Alfa Romeo,12,15,0.0,+1 Lap,0
+2021,21,Saudi Arabian Grand Prix,2021-12-05,jeddah,vettel,Sebastian Vettel,Aston Martin,17,16,0.0,Collision damage,0
+2021,21,Saudi Arabian Grand Prix,2021-12-05,jeddah,perez,Sergio Pérez,Red Bull,5,17,0.0,Collision,0
+2021,21,Saudi Arabian Grand Prix,2021-12-05,jeddah,mazepin,Nikita Mazepin,Haas F1 Team,20,18,0.0,Collision,0
+2021,21,Saudi Arabian Grand Prix,2021-12-05,jeddah,russell,George Russell,Williams,14,19,0.0,Collision,0
+2021,21,Saudi Arabian Grand Prix,2021-12-05,jeddah,mick_schumacher,Mick Schumacher,Haas F1 Team,19,20,0.0,Accident,0
+2021,22,Abu Dhabi Grand Prix,2021-12-12,yas_marina,max_verstappen,Max Verstappen,Red Bull,1,1,26.0,Finished,1
+2021,22,Abu Dhabi Grand Prix,2021-12-12,yas_marina,hamilton,Lewis Hamilton,Mercedes,2,2,18.0,Finished,0
+2021,22,Abu Dhabi Grand Prix,2021-12-12,yas_marina,sainz,Carlos Sainz,Ferrari,5,3,15.0,Finished,0
+2021,22,Abu Dhabi Grand Prix,2021-12-12,yas_marina,tsunoda,Yuki Tsunoda,AlphaTauri,8,4,12.0,Finished,0
+2021,22,Abu Dhabi Grand Prix,2021-12-12,yas_marina,gasly,Pierre Gasly,AlphaTauri,12,5,10.0,Finished,0
+2021,22,Abu Dhabi Grand Prix,2021-12-12,yas_marina,bottas,Valtteri Bottas,Mercedes,6,6,8.0,Finished,0
+2021,22,Abu Dhabi Grand Prix,2021-12-12,yas_marina,norris,Lando Norris,McLaren,3,7,6.0,Finished,0
+2021,22,Abu Dhabi Grand Prix,2021-12-12,yas_marina,alonso,Fernando Alonso,Alpine F1 Team,11,8,4.0,Finished,0
+2021,22,Abu Dhabi Grand Prix,2021-12-12,yas_marina,ocon,Esteban Ocon,Alpine F1 Team,9,9,2.0,Finished,0
+2021,22,Abu Dhabi Grand Prix,2021-12-12,yas_marina,leclerc,Charles Leclerc,Ferrari,7,10,1.0,Finished,0
+2021,22,Abu Dhabi Grand Prix,2021-12-12,yas_marina,vettel,Sebastian Vettel,Aston Martin,15,11,0.0,Finished,0
+2021,22,Abu Dhabi Grand Prix,2021-12-12,yas_marina,ricciardo,Daniel Ricciardo,McLaren,10,12,0.0,+1 Lap,0
+2021,22,Abu Dhabi Grand Prix,2021-12-12,yas_marina,stroll,Lance Stroll,Aston Martin,13,13,0.0,+1 Lap,0
+2021,22,Abu Dhabi Grand Prix,2021-12-12,yas_marina,mick_schumacher,Mick Schumacher,Haas F1 Team,19,14,0.0,+1 Lap,0
+2021,22,Abu Dhabi Grand Prix,2021-12-12,yas_marina,perez,Sergio Pérez,Red Bull,4,15,0.0,Engine,0
+2021,22,Abu Dhabi Grand Prix,2021-12-12,yas_marina,latifi,Nicholas Latifi,Williams,16,16,0.0,Accident,0
+2021,22,Abu Dhabi Grand Prix,2021-12-12,yas_marina,giovinazzi,Antonio Giovinazzi,Alfa Romeo,14,17,0.0,Gearbox,0
+2021,22,Abu Dhabi Grand Prix,2021-12-12,yas_marina,russell,George Russell,Williams,17,18,0.0,Gearbox,0
+2021,22,Abu Dhabi Grand Prix,2021-12-12,yas_marina,raikkonen,Kimi Räikkönen,Alfa Romeo,18,19,0.0,Brakes,0
+2021,22,Abu Dhabi Grand Prix,2021-12-12,yas_marina,mazepin,Nikita Mazepin,Haas F1 Team,20,20,0.0,Illness,0

@@ -1,0 +1,421 @@
+Year,Round,Race,Date,Circuit,DriverID,Driver,Team,GridPosition,FinishPosition,Points,Status,Won
+2018,1,Australian Grand Prix,2018-03-25,albert_park,vettel,Sebastian Vettel,Ferrari,3,1,25.0,Finished,1
+2018,1,Australian Grand Prix,2018-03-25,albert_park,hamilton,Lewis Hamilton,Mercedes,1,2,18.0,Finished,0
+2018,1,Australian Grand Prix,2018-03-25,albert_park,raikkonen,Kimi Räikkönen,Ferrari,2,3,15.0,Finished,0
+2018,1,Australian Grand Prix,2018-03-25,albert_park,ricciardo,Daniel Ricciardo,Red Bull,8,4,12.0,Finished,0
+2018,1,Australian Grand Prix,2018-03-25,albert_park,alonso,Fernando Alonso,McLaren,10,5,10.0,Finished,0
+2018,1,Australian Grand Prix,2018-03-25,albert_park,max_verstappen,Max Verstappen,Red Bull,4,6,8.0,Finished,0
+2018,1,Australian Grand Prix,2018-03-25,albert_park,hulkenberg,Nico Hülkenberg,Renault,7,7,6.0,Finished,0
+2018,1,Australian Grand Prix,2018-03-25,albert_park,bottas,Valtteri Bottas,Mercedes,15,8,4.0,Finished,0
+2018,1,Australian Grand Prix,2018-03-25,albert_park,vandoorne,Stoffel Vandoorne,McLaren,11,9,2.0,Finished,0
+2018,1,Australian Grand Prix,2018-03-25,albert_park,sainz,Carlos Sainz,Renault,9,10,1.0,Finished,0
+2018,1,Australian Grand Prix,2018-03-25,albert_park,perez,Sergio Pérez,Force India,12,11,0.0,Finished,0
+2018,1,Australian Grand Prix,2018-03-25,albert_park,ocon,Esteban Ocon,Force India,14,12,0.0,Finished,0
+2018,1,Australian Grand Prix,2018-03-25,albert_park,leclerc,Charles Leclerc,Sauber,18,13,0.0,Finished,0
+2018,1,Australian Grand Prix,2018-03-25,albert_park,stroll,Lance Stroll,Williams,13,14,0.0,Finished,0
+2018,1,Australian Grand Prix,2018-03-25,albert_park,brendon_hartley,Brendon Hartley,Toro Rosso,16,15,0.0,+1 Lap,0
+2018,1,Australian Grand Prix,2018-03-25,albert_park,grosjean,Romain Grosjean,Haas F1 Team,6,16,0.0,Wheel,0
+2018,1,Australian Grand Prix,2018-03-25,albert_park,kevin_magnussen,Kevin Magnussen,Haas F1 Team,5,17,0.0,Wheel,0
+2018,1,Australian Grand Prix,2018-03-25,albert_park,gasly,Pierre Gasly,Toro Rosso,20,18,0.0,Engine,0
+2018,1,Australian Grand Prix,2018-03-25,albert_park,ericsson,Marcus Ericsson,Sauber,17,19,0.0,Steering,0
+2018,1,Australian Grand Prix,2018-03-25,albert_park,sirotkin,Sergey Sirotkin,Williams,19,20,0.0,Brakes,0
+2018,2,Bahrain Grand Prix,2018-04-08,bahrain,vettel,Sebastian Vettel,Ferrari,1,1,25.0,Finished,1
+2018,2,Bahrain Grand Prix,2018-04-08,bahrain,bottas,Valtteri Bottas,Mercedes,3,2,18.0,Finished,0
+2018,2,Bahrain Grand Prix,2018-04-08,bahrain,hamilton,Lewis Hamilton,Mercedes,9,3,15.0,Finished,0
+2018,2,Bahrain Grand Prix,2018-04-08,bahrain,gasly,Pierre Gasly,Toro Rosso,5,4,12.0,Finished,0
+2018,2,Bahrain Grand Prix,2018-04-08,bahrain,kevin_magnussen,Kevin Magnussen,Haas F1 Team,6,5,10.0,Finished,0
+2018,2,Bahrain Grand Prix,2018-04-08,bahrain,hulkenberg,Nico Hülkenberg,Renault,7,6,8.0,Finished,0
+2018,2,Bahrain Grand Prix,2018-04-08,bahrain,alonso,Fernando Alonso,McLaren,13,7,6.0,+1 Lap,0
+2018,2,Bahrain Grand Prix,2018-04-08,bahrain,vandoorne,Stoffel Vandoorne,McLaren,14,8,4.0,+1 Lap,0
+2018,2,Bahrain Grand Prix,2018-04-08,bahrain,ericsson,Marcus Ericsson,Sauber,17,9,2.0,+1 Lap,0
+2018,2,Bahrain Grand Prix,2018-04-08,bahrain,ocon,Esteban Ocon,Force India,8,10,1.0,+1 Lap,0
+2018,2,Bahrain Grand Prix,2018-04-08,bahrain,sainz,Carlos Sainz,Renault,10,11,0.0,+1 Lap,0
+2018,2,Bahrain Grand Prix,2018-04-08,bahrain,leclerc,Charles Leclerc,Sauber,19,12,0.0,+1 Lap,0
+2018,2,Bahrain Grand Prix,2018-04-08,bahrain,grosjean,Romain Grosjean,Haas F1 Team,16,13,0.0,+1 Lap,0
+2018,2,Bahrain Grand Prix,2018-04-08,bahrain,stroll,Lance Stroll,Williams,20,14,0.0,+1 Lap,0
+2018,2,Bahrain Grand Prix,2018-04-08,bahrain,sirotkin,Sergey Sirotkin,Williams,18,15,0.0,+1 Lap,0
+2018,2,Bahrain Grand Prix,2018-04-08,bahrain,perez,Sergio Pérez,Force India,12,16,0.0,+1 Lap,0
+2018,2,Bahrain Grand Prix,2018-04-08,bahrain,brendon_hartley,Brendon Hartley,Toro Rosso,11,17,0.0,+1 Lap,0
+2018,2,Bahrain Grand Prix,2018-04-08,bahrain,raikkonen,Kimi Räikkönen,Ferrari,2,18,0.0,Wheel,0
+2018,2,Bahrain Grand Prix,2018-04-08,bahrain,max_verstappen,Max Verstappen,Red Bull,15,19,0.0,Puncture,0
+2018,2,Bahrain Grand Prix,2018-04-08,bahrain,ricciardo,Daniel Ricciardo,Red Bull,4,20,0.0,Electrical,0
+2018,3,Chinese Grand Prix,2018-04-15,shanghai,ricciardo,Daniel Ricciardo,Red Bull,6,1,25.0,Finished,1
+2018,3,Chinese Grand Prix,2018-04-15,shanghai,bottas,Valtteri Bottas,Mercedes,3,2,18.0,Finished,0
+2018,3,Chinese Grand Prix,2018-04-15,shanghai,raikkonen,Kimi Räikkönen,Ferrari,2,3,15.0,Finished,0
+2018,3,Chinese Grand Prix,2018-04-15,shanghai,hamilton,Lewis Hamilton,Mercedes,4,4,12.0,Finished,0
+2018,3,Chinese Grand Prix,2018-04-15,shanghai,max_verstappen,Max Verstappen,Red Bull,5,5,10.0,Finished,0
+2018,3,Chinese Grand Prix,2018-04-15,shanghai,hulkenberg,Nico Hülkenberg,Renault,7,6,8.0,Finished,0
+2018,3,Chinese Grand Prix,2018-04-15,shanghai,alonso,Fernando Alonso,McLaren,13,7,6.0,Finished,0
+2018,3,Chinese Grand Prix,2018-04-15,shanghai,vettel,Sebastian Vettel,Ferrari,1,8,4.0,Finished,0
+2018,3,Chinese Grand Prix,2018-04-15,shanghai,sainz,Carlos Sainz,Renault,9,9,2.0,Finished,0
+2018,3,Chinese Grand Prix,2018-04-15,shanghai,kevin_magnussen,Kevin Magnussen,Haas F1 Team,11,10,1.0,Finished,0
+2018,3,Chinese Grand Prix,2018-04-15,shanghai,ocon,Esteban Ocon,Force India,12,11,0.0,Finished,0
+2018,3,Chinese Grand Prix,2018-04-15,shanghai,perez,Sergio Pérez,Force India,8,12,0.0,Finished,0
+2018,3,Chinese Grand Prix,2018-04-15,shanghai,vandoorne,Stoffel Vandoorne,McLaren,14,13,0.0,Finished,0
+2018,3,Chinese Grand Prix,2018-04-15,shanghai,stroll,Lance Stroll,Williams,18,14,0.0,Finished,0
+2018,3,Chinese Grand Prix,2018-04-15,shanghai,sirotkin,Sergey Sirotkin,Williams,16,15,0.0,Finished,0
+2018,3,Chinese Grand Prix,2018-04-15,shanghai,ericsson,Marcus Ericsson,Sauber,20,16,0.0,Finished,0
+2018,3,Chinese Grand Prix,2018-04-15,shanghai,grosjean,Romain Grosjean,Haas F1 Team,10,17,0.0,Finished,0
+2018,3,Chinese Grand Prix,2018-04-15,shanghai,gasly,Pierre Gasly,Toro Rosso,17,18,0.0,Finished,0
+2018,3,Chinese Grand Prix,2018-04-15,shanghai,leclerc,Charles Leclerc,Sauber,19,19,0.0,Finished,0
+2018,3,Chinese Grand Prix,2018-04-15,shanghai,brendon_hartley,Brendon Hartley,Toro Rosso,15,20,0.0,Collision damage,0
+2018,4,Azerbaijan Grand Prix,2018-04-29,baku,hamilton,Lewis Hamilton,Mercedes,2,1,25.0,Finished,1
+2018,4,Azerbaijan Grand Prix,2018-04-29,baku,raikkonen,Kimi Räikkönen,Ferrari,6,2,18.0,Finished,0
+2018,4,Azerbaijan Grand Prix,2018-04-29,baku,perez,Sergio Pérez,Force India,8,3,15.0,Finished,0
+2018,4,Azerbaijan Grand Prix,2018-04-29,baku,vettel,Sebastian Vettel,Ferrari,1,4,12.0,Finished,0
+2018,4,Azerbaijan Grand Prix,2018-04-29,baku,sainz,Carlos Sainz,Renault,9,5,10.0,Finished,0
+2018,4,Azerbaijan Grand Prix,2018-04-29,baku,leclerc,Charles Leclerc,Sauber,13,6,8.0,Finished,0
+2018,4,Azerbaijan Grand Prix,2018-04-29,baku,alonso,Fernando Alonso,McLaren,12,7,6.0,Finished,0
+2018,4,Azerbaijan Grand Prix,2018-04-29,baku,stroll,Lance Stroll,Williams,10,8,4.0,Finished,0
+2018,4,Azerbaijan Grand Prix,2018-04-29,baku,vandoorne,Stoffel Vandoorne,McLaren,16,9,2.0,Finished,0
+2018,4,Azerbaijan Grand Prix,2018-04-29,baku,brendon_hartley,Brendon Hartley,Toro Rosso,19,10,1.0,Finished,0
+2018,4,Azerbaijan Grand Prix,2018-04-29,baku,ericsson,Marcus Ericsson,Sauber,18,11,0.0,Finished,0
+2018,4,Azerbaijan Grand Prix,2018-04-29,baku,gasly,Pierre Gasly,Toro Rosso,17,12,0.0,Finished,0
+2018,4,Azerbaijan Grand Prix,2018-04-29,baku,kevin_magnussen,Kevin Magnussen,Haas F1 Team,15,13,0.0,Finished,0
+2018,4,Azerbaijan Grand Prix,2018-04-29,baku,bottas,Valtteri Bottas,Mercedes,3,14,0.0,Puncture,0
+2018,4,Azerbaijan Grand Prix,2018-04-29,baku,grosjean,Romain Grosjean,Haas F1 Team,20,15,0.0,Accident,0
+2018,4,Azerbaijan Grand Prix,2018-04-29,baku,max_verstappen,Max Verstappen,Red Bull,5,16,0.0,Collision,0
+2018,4,Azerbaijan Grand Prix,2018-04-29,baku,ricciardo,Daniel Ricciardo,Red Bull,4,17,0.0,Collision,0
+2018,4,Azerbaijan Grand Prix,2018-04-29,baku,hulkenberg,Nico Hülkenberg,Renault,14,18,0.0,Accident,0
+2018,4,Azerbaijan Grand Prix,2018-04-29,baku,ocon,Esteban Ocon,Force India,7,19,0.0,Collision,0
+2018,4,Azerbaijan Grand Prix,2018-04-29,baku,sirotkin,Sergey Sirotkin,Williams,11,20,0.0,Collision,0
+2018,5,Spanish Grand Prix,2018-05-13,catalunya,hamilton,Lewis Hamilton,Mercedes,1,1,25.0,Finished,1
+2018,5,Spanish Grand Prix,2018-05-13,catalunya,bottas,Valtteri Bottas,Mercedes,2,2,18.0,Finished,0
+2018,5,Spanish Grand Prix,2018-05-13,catalunya,max_verstappen,Max Verstappen,Red Bull,5,3,15.0,Finished,0
+2018,5,Spanish Grand Prix,2018-05-13,catalunya,vettel,Sebastian Vettel,Ferrari,3,4,12.0,Finished,0
+2018,5,Spanish Grand Prix,2018-05-13,catalunya,ricciardo,Daniel Ricciardo,Red Bull,6,5,10.0,Finished,0
+2018,5,Spanish Grand Prix,2018-05-13,catalunya,kevin_magnussen,Kevin Magnussen,Haas F1 Team,7,6,8.0,+1 Lap,0
+2018,5,Spanish Grand Prix,2018-05-13,catalunya,sainz,Carlos Sainz,Renault,9,7,6.0,+1 Lap,0
+2018,5,Spanish Grand Prix,2018-05-13,catalunya,alonso,Fernando Alonso,McLaren,8,8,4.0,+1 Lap,0
+2018,5,Spanish Grand Prix,2018-05-13,catalunya,perez,Sergio Pérez,Force India,15,9,2.0,+2 Laps,0
+2018,5,Spanish Grand Prix,2018-05-13,catalunya,leclerc,Charles Leclerc,Sauber,14,10,1.0,+2 Laps,0
+2018,5,Spanish Grand Prix,2018-05-13,catalunya,stroll,Lance Stroll,Williams,18,11,0.0,+2 Laps,0
+2018,5,Spanish Grand Prix,2018-05-13,catalunya,brendon_hartley,Brendon Hartley,Toro Rosso,20,12,0.0,+2 Laps,0
+2018,5,Spanish Grand Prix,2018-05-13,catalunya,ericsson,Marcus Ericsson,Sauber,17,13,0.0,+2 Laps,0
+2018,5,Spanish Grand Prix,2018-05-13,catalunya,sirotkin,Sergey Sirotkin,Williams,19,14,0.0,+3 Laps,0
+2018,5,Spanish Grand Prix,2018-05-13,catalunya,vandoorne,Stoffel Vandoorne,McLaren,11,15,0.0,Gearbox,0
+2018,5,Spanish Grand Prix,2018-05-13,catalunya,ocon,Esteban Ocon,Force India,13,16,0.0,Oil leak,0
+2018,5,Spanish Grand Prix,2018-05-13,catalunya,raikkonen,Kimi Räikkönen,Ferrari,4,17,0.0,Turbo,0
+2018,5,Spanish Grand Prix,2018-05-13,catalunya,grosjean,Romain Grosjean,Haas F1 Team,10,18,0.0,Collision,0
+2018,5,Spanish Grand Prix,2018-05-13,catalunya,gasly,Pierre Gasly,Toro Rosso,12,19,0.0,Collision,0
+2018,5,Spanish Grand Prix,2018-05-13,catalunya,hulkenberg,Nico Hülkenberg,Renault,16,20,0.0,Collision,0
+2018,6,Monaco Grand Prix,2018-05-27,monaco,ricciardo,Daniel Ricciardo,Red Bull,1,1,25.0,Finished,1
+2018,6,Monaco Grand Prix,2018-05-27,monaco,vettel,Sebastian Vettel,Ferrari,2,2,18.0,Finished,0
+2018,6,Monaco Grand Prix,2018-05-27,monaco,hamilton,Lewis Hamilton,Mercedes,3,3,15.0,Finished,0
+2018,6,Monaco Grand Prix,2018-05-27,monaco,raikkonen,Kimi Räikkönen,Ferrari,4,4,12.0,Finished,0
+2018,6,Monaco Grand Prix,2018-05-27,monaco,bottas,Valtteri Bottas,Mercedes,5,5,10.0,Finished,0
+2018,6,Monaco Grand Prix,2018-05-27,monaco,ocon,Esteban Ocon,Force India,6,6,8.0,Finished,0
+2018,6,Monaco Grand Prix,2018-05-27,monaco,gasly,Pierre Gasly,Toro Rosso,10,7,6.0,Finished,0
+2018,6,Monaco Grand Prix,2018-05-27,monaco,hulkenberg,Nico Hülkenberg,Renault,11,8,4.0,Finished,0
+2018,6,Monaco Grand Prix,2018-05-27,monaco,max_verstappen,Max Verstappen,Red Bull,20,9,2.0,Finished,0
+2018,6,Monaco Grand Prix,2018-05-27,monaco,sainz,Carlos Sainz,Renault,8,10,1.0,Finished,0
+2018,6,Monaco Grand Prix,2018-05-27,monaco,ericsson,Marcus Ericsson,Sauber,16,11,0.0,Finished,0
+2018,6,Monaco Grand Prix,2018-05-27,monaco,perez,Sergio Pérez,Force India,9,12,0.0,Finished,0
+2018,6,Monaco Grand Prix,2018-05-27,monaco,kevin_magnussen,Kevin Magnussen,Haas F1 Team,19,13,0.0,Finished,0
+2018,6,Monaco Grand Prix,2018-05-27,monaco,vandoorne,Stoffel Vandoorne,McLaren,12,14,0.0,+1 Lap,0
+2018,6,Monaco Grand Prix,2018-05-27,monaco,grosjean,Romain Grosjean,Haas F1 Team,18,15,0.0,+1 Lap,0
+2018,6,Monaco Grand Prix,2018-05-27,monaco,sirotkin,Sergey Sirotkin,Williams,13,16,0.0,+1 Lap,0
+2018,6,Monaco Grand Prix,2018-05-27,monaco,stroll,Lance Stroll,Williams,17,17,0.0,+2 Laps,0
+2018,6,Monaco Grand Prix,2018-05-27,monaco,leclerc,Charles Leclerc,Sauber,14,18,0.0,Collision,0
+2018,6,Monaco Grand Prix,2018-05-27,monaco,brendon_hartley,Brendon Hartley,Toro Rosso,15,19,0.0,Collision,0
+2018,6,Monaco Grand Prix,2018-05-27,monaco,alonso,Fernando Alonso,McLaren,7,20,0.0,Gearbox,0
+2018,7,Canadian Grand Prix,2018-06-10,villeneuve,vettel,Sebastian Vettel,Ferrari,1,1,25.0,Finished,1
+2018,7,Canadian Grand Prix,2018-06-10,villeneuve,bottas,Valtteri Bottas,Mercedes,2,2,18.0,Finished,0
+2018,7,Canadian Grand Prix,2018-06-10,villeneuve,max_verstappen,Max Verstappen,Red Bull,3,3,15.0,Finished,0
+2018,7,Canadian Grand Prix,2018-06-10,villeneuve,ricciardo,Daniel Ricciardo,Red Bull,6,4,12.0,Finished,0
+2018,7,Canadian Grand Prix,2018-06-10,villeneuve,hamilton,Lewis Hamilton,Mercedes,4,5,10.0,Finished,0
+2018,7,Canadian Grand Prix,2018-06-10,villeneuve,raikkonen,Kimi Räikkönen,Ferrari,5,6,8.0,Finished,0
+2018,7,Canadian Grand Prix,2018-06-10,villeneuve,hulkenberg,Nico Hülkenberg,Renault,7,7,6.0,+1 Lap,0
+2018,7,Canadian Grand Prix,2018-06-10,villeneuve,sainz,Carlos Sainz,Renault,9,8,4.0,+1 Lap,0
+2018,7,Canadian Grand Prix,2018-06-10,villeneuve,ocon,Esteban Ocon,Force India,8,9,2.0,+1 Lap,0
+2018,7,Canadian Grand Prix,2018-06-10,villeneuve,leclerc,Charles Leclerc,Sauber,13,10,1.0,+1 Lap,0
+2018,7,Canadian Grand Prix,2018-06-10,villeneuve,gasly,Pierre Gasly,Toro Rosso,16,11,0.0,+1 Lap,0
+2018,7,Canadian Grand Prix,2018-06-10,villeneuve,grosjean,Romain Grosjean,Haas F1 Team,20,12,0.0,+1 Lap,0
+2018,7,Canadian Grand Prix,2018-06-10,villeneuve,kevin_magnussen,Kevin Magnussen,Haas F1 Team,11,13,0.0,+1 Lap,0
+2018,7,Canadian Grand Prix,2018-06-10,villeneuve,perez,Sergio Pérez,Force India,10,14,0.0,+1 Lap,0
+2018,7,Canadian Grand Prix,2018-06-10,villeneuve,ericsson,Marcus Ericsson,Sauber,19,15,0.0,+2 Laps,0
+2018,7,Canadian Grand Prix,2018-06-10,villeneuve,vandoorne,Stoffel Vandoorne,McLaren,15,16,0.0,+2 Laps,0
+2018,7,Canadian Grand Prix,2018-06-10,villeneuve,sirotkin,Sergey Sirotkin,Williams,18,17,0.0,+2 Laps,0
+2018,7,Canadian Grand Prix,2018-06-10,villeneuve,alonso,Fernando Alonso,McLaren,14,18,0.0,Exhaust,0
+2018,7,Canadian Grand Prix,2018-06-10,villeneuve,brendon_hartley,Brendon Hartley,Toro Rosso,12,19,0.0,Collision,0
+2018,7,Canadian Grand Prix,2018-06-10,villeneuve,stroll,Lance Stroll,Williams,17,20,0.0,Collision,0
+2018,8,French Grand Prix,2018-06-24,ricard,hamilton,Lewis Hamilton,Mercedes,1,1,25.0,Finished,1
+2018,8,French Grand Prix,2018-06-24,ricard,max_verstappen,Max Verstappen,Red Bull,4,2,18.0,Finished,0
+2018,8,French Grand Prix,2018-06-24,ricard,raikkonen,Kimi Räikkönen,Ferrari,6,3,15.0,Finished,0
+2018,8,French Grand Prix,2018-06-24,ricard,ricciardo,Daniel Ricciardo,Red Bull,5,4,12.0,Finished,0
+2018,8,French Grand Prix,2018-06-24,ricard,vettel,Sebastian Vettel,Ferrari,3,5,10.0,Finished,0
+2018,8,French Grand Prix,2018-06-24,ricard,kevin_magnussen,Kevin Magnussen,Haas F1 Team,9,6,8.0,Finished,0
+2018,8,French Grand Prix,2018-06-24,ricard,bottas,Valtteri Bottas,Mercedes,2,7,6.0,Finished,0
+2018,8,French Grand Prix,2018-06-24,ricard,sainz,Carlos Sainz,Renault,7,8,4.0,Finished,0
+2018,8,French Grand Prix,2018-06-24,ricard,hulkenberg,Nico Hülkenberg,Renault,12,9,2.0,Finished,0
+2018,8,French Grand Prix,2018-06-24,ricard,leclerc,Charles Leclerc,Sauber,8,10,1.0,Finished,0
+2018,8,French Grand Prix,2018-06-24,ricard,grosjean,Romain Grosjean,Haas F1 Team,10,11,0.0,+1 Lap,0
+2018,8,French Grand Prix,2018-06-24,ricard,vandoorne,Stoffel Vandoorne,McLaren,17,12,0.0,+1 Lap,0
+2018,8,French Grand Prix,2018-06-24,ricard,ericsson,Marcus Ericsson,Sauber,15,13,0.0,+1 Lap,0
+2018,8,French Grand Prix,2018-06-24,ricard,brendon_hartley,Brendon Hartley,Toro Rosso,20,14,0.0,+1 Lap,0
+2018,8,French Grand Prix,2018-06-24,ricard,sirotkin,Sergey Sirotkin,Williams,18,15,0.0,+1 Lap,0
+2018,8,French Grand Prix,2018-06-24,ricard,alonso,Fernando Alonso,McLaren,16,16,0.0,Wheel,0
+2018,8,French Grand Prix,2018-06-24,ricard,stroll,Lance Stroll,Williams,19,17,0.0,Puncture,0
+2018,8,French Grand Prix,2018-06-24,ricard,perez,Sergio Pérez,Force India,13,18,0.0,Engine,0
+2018,8,French Grand Prix,2018-06-24,ricard,ocon,Esteban Ocon,Force India,11,19,0.0,Collision,0
+2018,8,French Grand Prix,2018-06-24,ricard,gasly,Pierre Gasly,Toro Rosso,14,20,0.0,Collision,0
+2018,9,Austrian Grand Prix,2018-07-01,red_bull_ring,max_verstappen,Max Verstappen,Red Bull,4,1,25.0,Finished,1
+2018,9,Austrian Grand Prix,2018-07-01,red_bull_ring,raikkonen,Kimi Räikkönen,Ferrari,3,2,18.0,Finished,0
+2018,9,Austrian Grand Prix,2018-07-01,red_bull_ring,vettel,Sebastian Vettel,Ferrari,6,3,15.0,Finished,0
+2018,9,Austrian Grand Prix,2018-07-01,red_bull_ring,grosjean,Romain Grosjean,Haas F1 Team,5,4,12.0,+1 Lap,0
+2018,9,Austrian Grand Prix,2018-07-01,red_bull_ring,kevin_magnussen,Kevin Magnussen,Haas F1 Team,8,5,10.0,+1 Lap,0
+2018,9,Austrian Grand Prix,2018-07-01,red_bull_ring,ocon,Esteban Ocon,Force India,11,6,8.0,+1 Lap,0
+2018,9,Austrian Grand Prix,2018-07-01,red_bull_ring,perez,Sergio Pérez,Force India,16,7,6.0,+1 Lap,0
+2018,9,Austrian Grand Prix,2018-07-01,red_bull_ring,alonso,Fernando Alonso,McLaren,13,8,4.0,+1 Lap,0
+2018,9,Austrian Grand Prix,2018-07-01,red_bull_ring,leclerc,Charles Leclerc,Sauber,18,9,2.0,+1 Lap,0
+2018,9,Austrian Grand Prix,2018-07-01,red_bull_ring,ericsson,Marcus Ericsson,Sauber,20,10,1.0,+1 Lap,0
+2018,9,Austrian Grand Prix,2018-07-01,red_bull_ring,gasly,Pierre Gasly,Toro Rosso,12,11,0.0,+1 Lap,0
+2018,9,Austrian Grand Prix,2018-07-01,red_bull_ring,sainz,Carlos Sainz,Renault,9,12,0.0,+1 Lap,0
+2018,9,Austrian Grand Prix,2018-07-01,red_bull_ring,sirotkin,Sergey Sirotkin,Williams,17,13,0.0,+2 Laps,0
+2018,9,Austrian Grand Prix,2018-07-01,red_bull_ring,stroll,Lance Stroll,Williams,14,14,0.0,+2 Laps,0
+2018,9,Austrian Grand Prix,2018-07-01,red_bull_ring,vandoorne,Stoffel Vandoorne,McLaren,15,15,0.0,Collision damage,0
+2018,9,Austrian Grand Prix,2018-07-01,red_bull_ring,hamilton,Lewis Hamilton,Mercedes,2,16,0.0,Fuel pressure,0
+2018,9,Austrian Grand Prix,2018-07-01,red_bull_ring,brendon_hartley,Brendon Hartley,Toro Rosso,19,17,0.0,Hydraulics,0
+2018,9,Austrian Grand Prix,2018-07-01,red_bull_ring,ricciardo,Daniel Ricciardo,Red Bull,7,18,0.0,Exhaust,0
+2018,9,Austrian Grand Prix,2018-07-01,red_bull_ring,bottas,Valtteri Bottas,Mercedes,1,19,0.0,Hydraulics,0
+2018,9,Austrian Grand Prix,2018-07-01,red_bull_ring,hulkenberg,Nico Hülkenberg,Renault,10,20,0.0,Engine,0
+2018,10,British Grand Prix,2018-07-08,silverstone,vettel,Sebastian Vettel,Ferrari,2,1,25.0,Finished,1
+2018,10,British Grand Prix,2018-07-08,silverstone,hamilton,Lewis Hamilton,Mercedes,1,2,18.0,Finished,0
+2018,10,British Grand Prix,2018-07-08,silverstone,raikkonen,Kimi Räikkönen,Ferrari,3,3,15.0,Finished,0
+2018,10,British Grand Prix,2018-07-08,silverstone,bottas,Valtteri Bottas,Mercedes,4,4,12.0,Finished,0
+2018,10,British Grand Prix,2018-07-08,silverstone,ricciardo,Daniel Ricciardo,Red Bull,6,5,10.0,Finished,0
+2018,10,British Grand Prix,2018-07-08,silverstone,hulkenberg,Nico Hülkenberg,Renault,11,6,8.0,Finished,0
+2018,10,British Grand Prix,2018-07-08,silverstone,ocon,Esteban Ocon,Force India,10,7,6.0,Finished,0
+2018,10,British Grand Prix,2018-07-08,silverstone,alonso,Fernando Alonso,McLaren,13,8,4.0,Finished,0
+2018,10,British Grand Prix,2018-07-08,silverstone,kevin_magnussen,Kevin Magnussen,Haas F1 Team,7,9,2.0,Finished,0
+2018,10,British Grand Prix,2018-07-08,silverstone,perez,Sergio Pérez,Force India,12,10,1.0,Finished,0
+2018,10,British Grand Prix,2018-07-08,silverstone,vandoorne,Stoffel Vandoorne,McLaren,17,11,0.0,Finished,0
+2018,10,British Grand Prix,2018-07-08,silverstone,stroll,Lance Stroll,Williams,19,12,0.0,Finished,0
+2018,10,British Grand Prix,2018-07-08,silverstone,gasly,Pierre Gasly,Toro Rosso,14,13,0.0,Finished,0
+2018,10,British Grand Prix,2018-07-08,silverstone,sirotkin,Sergey Sirotkin,Williams,18,14,0.0,Finished,0
+2018,10,British Grand Prix,2018-07-08,silverstone,max_verstappen,Max Verstappen,Red Bull,5,15,0.0,Brakes,0
+2018,10,British Grand Prix,2018-07-08,silverstone,grosjean,Romain Grosjean,Haas F1 Team,8,16,0.0,Collision,0
+2018,10,British Grand Prix,2018-07-08,silverstone,sainz,Carlos Sainz,Renault,16,17,0.0,Collision,0
+2018,10,British Grand Prix,2018-07-08,silverstone,ericsson,Marcus Ericsson,Sauber,15,18,0.0,Accident,0
+2018,10,British Grand Prix,2018-07-08,silverstone,leclerc,Charles Leclerc,Sauber,9,19,0.0,Tyre,0
+2018,10,British Grand Prix,2018-07-08,silverstone,brendon_hartley,Brendon Hartley,Toro Rosso,0,20,0.0,Power Unit,0
+2018,11,German Grand Prix,2018-07-22,hockenheimring,hamilton,Lewis Hamilton,Mercedes,14,1,25.0,Finished,1
+2018,11,German Grand Prix,2018-07-22,hockenheimring,bottas,Valtteri Bottas,Mercedes,2,2,18.0,Finished,0
+2018,11,German Grand Prix,2018-07-22,hockenheimring,raikkonen,Kimi Räikkönen,Ferrari,3,3,15.0,Finished,0
+2018,11,German Grand Prix,2018-07-22,hockenheimring,max_verstappen,Max Verstappen,Red Bull,4,4,12.0,Finished,0
+2018,11,German Grand Prix,2018-07-22,hockenheimring,hulkenberg,Nico Hülkenberg,Renault,7,5,10.0,Finished,0
+2018,11,German Grand Prix,2018-07-22,hockenheimring,grosjean,Romain Grosjean,Haas F1 Team,6,6,8.0,Finished,0
+2018,11,German Grand Prix,2018-07-22,hockenheimring,perez,Sergio Pérez,Force India,10,7,6.0,Finished,0
+2018,11,German Grand Prix,2018-07-22,hockenheimring,ocon,Esteban Ocon,Force India,15,8,4.0,Finished,0
+2018,11,German Grand Prix,2018-07-22,hockenheimring,ericsson,Marcus Ericsson,Sauber,13,9,2.0,Finished,0
+2018,11,German Grand Prix,2018-07-22,hockenheimring,brendon_hartley,Brendon Hartley,Toro Rosso,17,10,1.0,Finished,0
+2018,11,German Grand Prix,2018-07-22,hockenheimring,kevin_magnussen,Kevin Magnussen,Haas F1 Team,5,11,0.0,Finished,0
+2018,11,German Grand Prix,2018-07-22,hockenheimring,sainz,Carlos Sainz,Renault,8,12,0.0,Finished,0
+2018,11,German Grand Prix,2018-07-22,hockenheimring,vandoorne,Stoffel Vandoorne,McLaren,19,13,0.0,Finished,0
+2018,11,German Grand Prix,2018-07-22,hockenheimring,gasly,Pierre Gasly,Toro Rosso,16,14,0.0,+1 Lap,0
+2018,11,German Grand Prix,2018-07-22,hockenheimring,leclerc,Charles Leclerc,Sauber,9,15,0.0,+1 Lap,0
+2018,11,German Grand Prix,2018-07-22,hockenheimring,alonso,Fernando Alonso,McLaren,11,16,0.0,Retired,0
+2018,11,German Grand Prix,2018-07-22,hockenheimring,stroll,Lance Stroll,Williams,18,17,0.0,Engine,0
+2018,11,German Grand Prix,2018-07-22,hockenheimring,vettel,Sebastian Vettel,Ferrari,1,18,0.0,Accident,0
+2018,11,German Grand Prix,2018-07-22,hockenheimring,sirotkin,Sergey Sirotkin,Williams,12,19,0.0,Engine,0
+2018,11,German Grand Prix,2018-07-22,hockenheimring,ricciardo,Daniel Ricciardo,Red Bull,20,20,0.0,Engine,0
+2018,12,Hungarian Grand Prix,2018-07-29,hungaroring,hamilton,Lewis Hamilton,Mercedes,1,1,25.0,Finished,1
+2018,12,Hungarian Grand Prix,2018-07-29,hungaroring,vettel,Sebastian Vettel,Ferrari,4,2,18.0,Finished,0
+2018,12,Hungarian Grand Prix,2018-07-29,hungaroring,raikkonen,Kimi Räikkönen,Ferrari,3,3,15.0,Finished,0
+2018,12,Hungarian Grand Prix,2018-07-29,hungaroring,ricciardo,Daniel Ricciardo,Red Bull,12,4,12.0,Finished,0
+2018,12,Hungarian Grand Prix,2018-07-29,hungaroring,bottas,Valtteri Bottas,Mercedes,2,5,10.0,Finished,0
+2018,12,Hungarian Grand Prix,2018-07-29,hungaroring,gasly,Pierre Gasly,Toro Rosso,6,6,8.0,Finished,0
+2018,12,Hungarian Grand Prix,2018-07-29,hungaroring,kevin_magnussen,Kevin Magnussen,Haas F1 Team,9,7,6.0,+1 Lap,0
+2018,12,Hungarian Grand Prix,2018-07-29,hungaroring,alonso,Fernando Alonso,McLaren,11,8,4.0,+1 Lap,0
+2018,12,Hungarian Grand Prix,2018-07-29,hungaroring,sainz,Carlos Sainz,Renault,5,9,2.0,+1 Lap,0
+2018,12,Hungarian Grand Prix,2018-07-29,hungaroring,grosjean,Romain Grosjean,Haas F1 Team,10,10,1.0,+1 Lap,0
+2018,12,Hungarian Grand Prix,2018-07-29,hungaroring,brendon_hartley,Brendon Hartley,Toro Rosso,8,11,0.0,+1 Lap,0
+2018,12,Hungarian Grand Prix,2018-07-29,hungaroring,hulkenberg,Nico Hülkenberg,Renault,13,12,0.0,+1 Lap,0
+2018,12,Hungarian Grand Prix,2018-07-29,hungaroring,ocon,Esteban Ocon,Force India,18,13,0.0,+1 Lap,0
+2018,12,Hungarian Grand Prix,2018-07-29,hungaroring,perez,Sergio Pérez,Force India,19,14,0.0,+1 Lap,0
+2018,12,Hungarian Grand Prix,2018-07-29,hungaroring,ericsson,Marcus Ericsson,Sauber,14,15,0.0,+2 Laps,0
+2018,12,Hungarian Grand Prix,2018-07-29,hungaroring,sirotkin,Sergey Sirotkin,Williams,20,16,0.0,+2 Laps,0
+2018,12,Hungarian Grand Prix,2018-07-29,hungaroring,stroll,Lance Stroll,Williams,15,17,0.0,+2 Laps,0
+2018,12,Hungarian Grand Prix,2018-07-29,hungaroring,vandoorne,Stoffel Vandoorne,McLaren,16,18,0.0,Gearbox,0
+2018,12,Hungarian Grand Prix,2018-07-29,hungaroring,max_verstappen,Max Verstappen,Red Bull,7,19,0.0,Power loss,0
+2018,12,Hungarian Grand Prix,2018-07-29,hungaroring,leclerc,Charles Leclerc,Sauber,17,20,0.0,Suspension,0
+2018,13,Belgian Grand Prix,2018-08-26,spa,vettel,Sebastian Vettel,Ferrari,2,1,25.0,Finished,1
+2018,13,Belgian Grand Prix,2018-08-26,spa,hamilton,Lewis Hamilton,Mercedes,1,2,18.0,Finished,0
+2018,13,Belgian Grand Prix,2018-08-26,spa,max_verstappen,Max Verstappen,Red Bull,7,3,15.0,Finished,0
+2018,13,Belgian Grand Prix,2018-08-26,spa,bottas,Valtteri Bottas,Mercedes,19,4,12.0,Finished,0
+2018,13,Belgian Grand Prix,2018-08-26,spa,perez,Sergio Pérez,Force India,4,5,10.0,Finished,0
+2018,13,Belgian Grand Prix,2018-08-26,spa,ocon,Esteban Ocon,Force India,3,6,8.0,Finished,0
+2018,13,Belgian Grand Prix,2018-08-26,spa,grosjean,Romain Grosjean,Haas F1 Team,5,7,6.0,Finished,0
+2018,13,Belgian Grand Prix,2018-08-26,spa,kevin_magnussen,Kevin Magnussen,Haas F1 Team,9,8,4.0,Finished,0
+2018,13,Belgian Grand Prix,2018-08-26,spa,gasly,Pierre Gasly,Toro Rosso,10,9,2.0,Finished,0
+2018,13,Belgian Grand Prix,2018-08-26,spa,ericsson,Marcus Ericsson,Sauber,13,10,1.0,+1 Lap,0
+2018,13,Belgian Grand Prix,2018-08-26,spa,sainz,Carlos Sainz,Renault,14,11,0.0,+1 Lap,0
+2018,13,Belgian Grand Prix,2018-08-26,spa,sirotkin,Sergey Sirotkin,Williams,16,12,0.0,+1 Lap,0
+2018,13,Belgian Grand Prix,2018-08-26,spa,stroll,Lance Stroll,Williams,17,13,0.0,+1 Lap,0
+2018,13,Belgian Grand Prix,2018-08-26,spa,brendon_hartley,Brendon Hartley,Toro Rosso,11,14,0.0,+1 Lap,0
+2018,13,Belgian Grand Prix,2018-08-26,spa,vandoorne,Stoffel Vandoorne,McLaren,18,15,0.0,+1 Lap,0
+2018,13,Belgian Grand Prix,2018-08-26,spa,ricciardo,Daniel Ricciardo,Red Bull,8,16,0.0,Retired,0
+2018,13,Belgian Grand Prix,2018-08-26,spa,raikkonen,Kimi Räikkönen,Ferrari,6,17,0.0,Brakes,0
+2018,13,Belgian Grand Prix,2018-08-26,spa,leclerc,Charles Leclerc,Sauber,12,18,0.0,Accident,0
+2018,13,Belgian Grand Prix,2018-08-26,spa,alonso,Fernando Alonso,McLaren,15,19,0.0,Accident,0
+2018,13,Belgian Grand Prix,2018-08-26,spa,hulkenberg,Nico Hülkenberg,Renault,20,20,0.0,Accident,0
+2018,14,Italian Grand Prix,2018-09-02,monza,hamilton,Lewis Hamilton,Mercedes,3,1,25.0,Finished,1
+2018,14,Italian Grand Prix,2018-09-02,monza,raikkonen,Kimi Räikkönen,Ferrari,1,2,18.0,Finished,0
+2018,14,Italian Grand Prix,2018-09-02,monza,bottas,Valtteri Bottas,Mercedes,4,3,15.0,Finished,0
+2018,14,Italian Grand Prix,2018-09-02,monza,vettel,Sebastian Vettel,Ferrari,2,4,12.0,Finished,0
+2018,14,Italian Grand Prix,2018-09-02,monza,max_verstappen,Max Verstappen,Red Bull,5,5,10.0,Finished,0
+2018,14,Italian Grand Prix,2018-09-02,monza,ocon,Esteban Ocon,Force India,8,6,8.0,Finished,0
+2018,14,Italian Grand Prix,2018-09-02,monza,perez,Sergio Pérez,Force India,14,7,6.0,Finished,0
+2018,14,Italian Grand Prix,2018-09-02,monza,sainz,Carlos Sainz,Renault,7,8,4.0,Finished,0
+2018,14,Italian Grand Prix,2018-09-02,monza,stroll,Lance Stroll,Williams,10,9,2.0,+1 Lap,0
+2018,14,Italian Grand Prix,2018-09-02,monza,sirotkin,Sergey Sirotkin,Williams,12,10,1.0,+1 Lap,0
+2018,14,Italian Grand Prix,2018-09-02,monza,leclerc,Charles Leclerc,Sauber,15,11,0.0,+1 Lap,0
+2018,14,Italian Grand Prix,2018-09-02,monza,vandoorne,Stoffel Vandoorne,McLaren,17,12,0.0,+1 Lap,0
+2018,14,Italian Grand Prix,2018-09-02,monza,hulkenberg,Nico Hülkenberg,Renault,20,13,0.0,+1 Lap,0
+2018,14,Italian Grand Prix,2018-09-02,monza,gasly,Pierre Gasly,Toro Rosso,9,14,0.0,+1 Lap,0
+2018,14,Italian Grand Prix,2018-09-02,monza,ericsson,Marcus Ericsson,Sauber,18,15,0.0,+1 Lap,0
+2018,14,Italian Grand Prix,2018-09-02,monza,kevin_magnussen,Kevin Magnussen,Haas F1 Team,11,16,0.0,+1 Lap,0
+2018,14,Italian Grand Prix,2018-09-02,monza,ricciardo,Daniel Ricciardo,Red Bull,19,17,0.0,Engine,0
+2018,14,Italian Grand Prix,2018-09-02,monza,alonso,Fernando Alonso,McLaren,13,18,0.0,Engine,0
+2018,14,Italian Grand Prix,2018-09-02,monza,brendon_hartley,Brendon Hartley,Toro Rosso,16,19,0.0,Brakes,0
+2018,14,Italian Grand Prix,2018-09-02,monza,grosjean,Romain Grosjean,Haas F1 Team,6,20,0.0,Disqualified,0
+2018,15,Singapore Grand Prix,2018-09-16,marina_bay,hamilton,Lewis Hamilton,Mercedes,1,1,25.0,Finished,1
+2018,15,Singapore Grand Prix,2018-09-16,marina_bay,max_verstappen,Max Verstappen,Red Bull,2,2,18.0,Finished,0
+2018,15,Singapore Grand Prix,2018-09-16,marina_bay,vettel,Sebastian Vettel,Ferrari,3,3,15.0,Finished,0
+2018,15,Singapore Grand Prix,2018-09-16,marina_bay,bottas,Valtteri Bottas,Mercedes,4,4,12.0,Finished,0
+2018,15,Singapore Grand Prix,2018-09-16,marina_bay,raikkonen,Kimi Räikkönen,Ferrari,5,5,10.0,Finished,0
+2018,15,Singapore Grand Prix,2018-09-16,marina_bay,ricciardo,Daniel Ricciardo,Red Bull,6,6,8.0,Finished,0
+2018,15,Singapore Grand Prix,2018-09-16,marina_bay,alonso,Fernando Alonso,McLaren,11,7,6.0,Finished,0
+2018,15,Singapore Grand Prix,2018-09-16,marina_bay,sainz,Carlos Sainz,Renault,12,8,4.0,+1 Lap,0
+2018,15,Singapore Grand Prix,2018-09-16,marina_bay,leclerc,Charles Leclerc,Sauber,13,9,2.0,+1 Lap,0
+2018,15,Singapore Grand Prix,2018-09-16,marina_bay,hulkenberg,Nico Hülkenberg,Renault,10,10,1.0,+1 Lap,0
+2018,15,Singapore Grand Prix,2018-09-16,marina_bay,ericsson,Marcus Ericsson,Sauber,14,11,0.0,+1 Lap,0
+2018,15,Singapore Grand Prix,2018-09-16,marina_bay,vandoorne,Stoffel Vandoorne,McLaren,18,12,0.0,+1 Lap,0
+2018,15,Singapore Grand Prix,2018-09-16,marina_bay,gasly,Pierre Gasly,Toro Rosso,15,13,0.0,+1 Lap,0
+2018,15,Singapore Grand Prix,2018-09-16,marina_bay,stroll,Lance Stroll,Williams,20,14,0.0,+1 Lap,0
+2018,15,Singapore Grand Prix,2018-09-16,marina_bay,grosjean,Romain Grosjean,Haas F1 Team,8,15,0.0,+1 Lap,0
+2018,15,Singapore Grand Prix,2018-09-16,marina_bay,perez,Sergio Pérez,Force India,7,16,0.0,+1 Lap,0
+2018,15,Singapore Grand Prix,2018-09-16,marina_bay,brendon_hartley,Brendon Hartley,Toro Rosso,17,17,0.0,+1 Lap,0
+2018,15,Singapore Grand Prix,2018-09-16,marina_bay,kevin_magnussen,Kevin Magnussen,Haas F1 Team,16,18,0.0,+2 Laps,0
+2018,15,Singapore Grand Prix,2018-09-16,marina_bay,sirotkin,Sergey Sirotkin,Williams,19,19,0.0,+2 Laps,0
+2018,15,Singapore Grand Prix,2018-09-16,marina_bay,ocon,Esteban Ocon,Force India,9,20,0.0,Collision,0
+2018,16,Russian Grand Prix,2018-09-30,sochi,hamilton,Lewis Hamilton,Mercedes,2,1,25.0,Finished,1
+2018,16,Russian Grand Prix,2018-09-30,sochi,bottas,Valtteri Bottas,Mercedes,1,2,18.0,Finished,0
+2018,16,Russian Grand Prix,2018-09-30,sochi,vettel,Sebastian Vettel,Ferrari,3,3,15.0,Finished,0
+2018,16,Russian Grand Prix,2018-09-30,sochi,raikkonen,Kimi Räikkönen,Ferrari,4,4,12.0,Finished,0
+2018,16,Russian Grand Prix,2018-09-30,sochi,max_verstappen,Max Verstappen,Red Bull,19,5,10.0,Finished,0
+2018,16,Russian Grand Prix,2018-09-30,sochi,ricciardo,Daniel Ricciardo,Red Bull,18,6,8.0,Finished,0
+2018,16,Russian Grand Prix,2018-09-30,sochi,leclerc,Charles Leclerc,Sauber,7,7,6.0,Finished,0
+2018,16,Russian Grand Prix,2018-09-30,sochi,kevin_magnussen,Kevin Magnussen,Haas F1 Team,5,8,4.0,+1 Lap,0
+2018,16,Russian Grand Prix,2018-09-30,sochi,ocon,Esteban Ocon,Force India,6,9,2.0,+1 Lap,0
+2018,16,Russian Grand Prix,2018-09-30,sochi,perez,Sergio Pérez,Force India,8,10,1.0,+1 Lap,0
+2018,16,Russian Grand Prix,2018-09-30,sochi,grosjean,Romain Grosjean,Haas F1 Team,9,11,0.0,+1 Lap,0
+2018,16,Russian Grand Prix,2018-09-30,sochi,hulkenberg,Nico Hülkenberg,Renault,12,12,0.0,+1 Lap,0
+2018,16,Russian Grand Prix,2018-09-30,sochi,ericsson,Marcus Ericsson,Sauber,10,13,0.0,+1 Lap,0
+2018,16,Russian Grand Prix,2018-09-30,sochi,alonso,Fernando Alonso,McLaren,16,14,0.0,+1 Lap,0
+2018,16,Russian Grand Prix,2018-09-30,sochi,stroll,Lance Stroll,Williams,14,15,0.0,+1 Lap,0
+2018,16,Russian Grand Prix,2018-09-30,sochi,vandoorne,Stoffel Vandoorne,McLaren,15,16,0.0,+2 Laps,0
+2018,16,Russian Grand Prix,2018-09-30,sochi,sainz,Carlos Sainz,Renault,11,17,0.0,+2 Laps,0
+2018,16,Russian Grand Prix,2018-09-30,sochi,sirotkin,Sergey Sirotkin,Williams,13,18,0.0,+2 Laps,0
+2018,16,Russian Grand Prix,2018-09-30,sochi,gasly,Pierre Gasly,Toro Rosso,17,19,0.0,Brakes,0
+2018,16,Russian Grand Prix,2018-09-30,sochi,brendon_hartley,Brendon Hartley,Toro Rosso,20,20,0.0,Brakes,0
+2018,17,Japanese Grand Prix,2018-10-07,suzuka,hamilton,Lewis Hamilton,Mercedes,1,1,25.0,Finished,1
+2018,17,Japanese Grand Prix,2018-10-07,suzuka,bottas,Valtteri Bottas,Mercedes,2,2,18.0,Finished,0
+2018,17,Japanese Grand Prix,2018-10-07,suzuka,max_verstappen,Max Verstappen,Red Bull,3,3,15.0,Finished,0
+2018,17,Japanese Grand Prix,2018-10-07,suzuka,ricciardo,Daniel Ricciardo,Red Bull,15,4,12.0,Finished,0
+2018,17,Japanese Grand Prix,2018-10-07,suzuka,raikkonen,Kimi Räikkönen,Ferrari,4,5,10.0,Finished,0
+2018,17,Japanese Grand Prix,2018-10-07,suzuka,vettel,Sebastian Vettel,Ferrari,8,6,8.0,Finished,0
+2018,17,Japanese Grand Prix,2018-10-07,suzuka,perez,Sergio Pérez,Force India,9,7,6.0,Finished,0
+2018,17,Japanese Grand Prix,2018-10-07,suzuka,grosjean,Romain Grosjean,Haas F1 Team,5,8,4.0,Finished,0
+2018,17,Japanese Grand Prix,2018-10-07,suzuka,ocon,Esteban Ocon,Force India,11,9,2.0,Finished,0
+2018,17,Japanese Grand Prix,2018-10-07,suzuka,sainz,Carlos Sainz,Renault,13,10,1.0,+1 Lap,0
+2018,17,Japanese Grand Prix,2018-10-07,suzuka,gasly,Pierre Gasly,Toro Rosso,7,11,0.0,+1 Lap,0
+2018,17,Japanese Grand Prix,2018-10-07,suzuka,ericsson,Marcus Ericsson,Sauber,20,12,0.0,+1 Lap,0
+2018,17,Japanese Grand Prix,2018-10-07,suzuka,brendon_hartley,Brendon Hartley,Toro Rosso,6,13,0.0,+1 Lap,0
+2018,17,Japanese Grand Prix,2018-10-07,suzuka,alonso,Fernando Alonso,McLaren,18,14,0.0,+1 Lap,0
+2018,17,Japanese Grand Prix,2018-10-07,suzuka,vandoorne,Stoffel Vandoorne,McLaren,19,15,0.0,+1 Lap,0
+2018,17,Japanese Grand Prix,2018-10-07,suzuka,sirotkin,Sergey Sirotkin,Williams,17,16,0.0,+1 Lap,0
+2018,17,Japanese Grand Prix,2018-10-07,suzuka,stroll,Lance Stroll,Williams,14,17,0.0,+1 Lap,0
+2018,17,Japanese Grand Prix,2018-10-07,suzuka,leclerc,Charles Leclerc,Sauber,10,18,0.0,Mechanical,0
+2018,17,Japanese Grand Prix,2018-10-07,suzuka,hulkenberg,Nico Hülkenberg,Renault,16,19,0.0,Engine,0
+2018,17,Japanese Grand Prix,2018-10-07,suzuka,kevin_magnussen,Kevin Magnussen,Haas F1 Team,12,20,0.0,Collision damage,0
+2018,18,United States Grand Prix,2018-10-21,americas,raikkonen,Kimi Räikkönen,Ferrari,2,1,25.0,Finished,1
+2018,18,United States Grand Prix,2018-10-21,americas,max_verstappen,Max Verstappen,Red Bull,18,2,18.0,Finished,0
+2018,18,United States Grand Prix,2018-10-21,americas,hamilton,Lewis Hamilton,Mercedes,1,3,15.0,Finished,0
+2018,18,United States Grand Prix,2018-10-21,americas,vettel,Sebastian Vettel,Ferrari,5,4,12.0,Finished,0
+2018,18,United States Grand Prix,2018-10-21,americas,bottas,Valtteri Bottas,Mercedes,3,5,10.0,Finished,0
+2018,18,United States Grand Prix,2018-10-21,americas,hulkenberg,Nico Hülkenberg,Renault,7,6,8.0,Finished,0
+2018,18,United States Grand Prix,2018-10-21,americas,sainz,Carlos Sainz,Renault,11,7,6.0,Finished,0
+2018,18,United States Grand Prix,2018-10-21,americas,perez,Sergio Pérez,Force India,10,8,4.0,Finished,0
+2018,18,United States Grand Prix,2018-10-21,americas,brendon_hartley,Brendon Hartley,Toro Rosso,20,9,2.0,+1 Lap,0
+2018,18,United States Grand Prix,2018-10-21,americas,ericsson,Marcus Ericsson,Sauber,16,10,1.0,+1 Lap,0
+2018,18,United States Grand Prix,2018-10-21,americas,vandoorne,Stoffel Vandoorne,McLaren,17,11,0.0,+1 Lap,0
+2018,18,United States Grand Prix,2018-10-21,americas,gasly,Pierre Gasly,Toro Rosso,19,12,0.0,+1 Lap,0
+2018,18,United States Grand Prix,2018-10-21,americas,sirotkin,Sergey Sirotkin,Williams,14,13,0.0,+1 Lap,0
+2018,18,United States Grand Prix,2018-10-21,americas,stroll,Lance Stroll,Williams,15,14,0.0,+2 Laps,0
+2018,18,United States Grand Prix,2018-10-21,americas,leclerc,Charles Leclerc,Sauber,9,15,0.0,Collision damage,0
+2018,18,United States Grand Prix,2018-10-21,americas,ricciardo,Daniel Ricciardo,Red Bull,4,16,0.0,Battery,0
+2018,18,United States Grand Prix,2018-10-21,americas,grosjean,Romain Grosjean,Haas F1 Team,8,17,0.0,Collision damage,0
+2018,18,United States Grand Prix,2018-10-21,americas,alonso,Fernando Alonso,McLaren,13,18,0.0,Collision,0
+2018,18,United States Grand Prix,2018-10-21,americas,ocon,Esteban Ocon,Force India,6,19,0.0,Disqualified,0
+2018,18,United States Grand Prix,2018-10-21,americas,kevin_magnussen,Kevin Magnussen,Haas F1 Team,12,20,0.0,Disqualified,0
+2018,19,Mexican Grand Prix,2018-10-28,rodriguez,max_verstappen,Max Verstappen,Red Bull,2,1,25.0,Finished,1
+2018,19,Mexican Grand Prix,2018-10-28,rodriguez,vettel,Sebastian Vettel,Ferrari,4,2,18.0,Finished,0
+2018,19,Mexican Grand Prix,2018-10-28,rodriguez,raikkonen,Kimi Räikkönen,Ferrari,6,3,15.0,Finished,0
+2018,19,Mexican Grand Prix,2018-10-28,rodriguez,hamilton,Lewis Hamilton,Mercedes,3,4,12.0,Finished,0
+2018,19,Mexican Grand Prix,2018-10-28,rodriguez,bottas,Valtteri Bottas,Mercedes,5,5,10.0,+1 Lap,0
+2018,19,Mexican Grand Prix,2018-10-28,rodriguez,hulkenberg,Nico Hülkenberg,Renault,7,6,8.0,+2 Laps,0
+2018,19,Mexican Grand Prix,2018-10-28,rodriguez,leclerc,Charles Leclerc,Sauber,9,7,6.0,+2 Laps,0
+2018,19,Mexican Grand Prix,2018-10-28,rodriguez,vandoorne,Stoffel Vandoorne,McLaren,15,8,4.0,+2 Laps,0
+2018,19,Mexican Grand Prix,2018-10-28,rodriguez,ericsson,Marcus Ericsson,Sauber,10,9,2.0,+2 Laps,0
+2018,19,Mexican Grand Prix,2018-10-28,rodriguez,gasly,Pierre Gasly,Toro Rosso,20,10,1.0,+2 Laps,0
+2018,19,Mexican Grand Prix,2018-10-28,rodriguez,ocon,Esteban Ocon,Force India,11,11,0.0,+2 Laps,0
+2018,19,Mexican Grand Prix,2018-10-28,rodriguez,stroll,Lance Stroll,Williams,17,12,0.0,+2 Laps,0
+2018,19,Mexican Grand Prix,2018-10-28,rodriguez,sirotkin,Sergey Sirotkin,Williams,19,13,0.0,+2 Laps,0
+2018,19,Mexican Grand Prix,2018-10-28,rodriguez,brendon_hartley,Brendon Hartley,Toro Rosso,14,14,0.0,+2 Laps,0
+2018,19,Mexican Grand Prix,2018-10-28,rodriguez,kevin_magnussen,Kevin Magnussen,Haas F1 Team,16,15,0.0,+2 Laps,0
+2018,19,Mexican Grand Prix,2018-10-28,rodriguez,grosjean,Romain Grosjean,Haas F1 Team,18,16,0.0,+3 Laps,0
+2018,19,Mexican Grand Prix,2018-10-28,rodriguez,ricciardo,Daniel Ricciardo,Red Bull,1,17,0.0,Engine,0
+2018,19,Mexican Grand Prix,2018-10-28,rodriguez,perez,Sergio Pérez,Force India,13,18,0.0,Brakes,0
+2018,19,Mexican Grand Prix,2018-10-28,rodriguez,sainz,Carlos Sainz,Renault,8,19,0.0,Suspension,0
+2018,19,Mexican Grand Prix,2018-10-28,rodriguez,alonso,Fernando Alonso,McLaren,12,20,0.0,Engine,0
+2018,20,Brazilian Grand Prix,2018-11-11,interlagos,hamilton,Lewis Hamilton,Mercedes,1,1,25.0,Finished,1
+2018,20,Brazilian Grand Prix,2018-11-11,interlagos,max_verstappen,Max Verstappen,Red Bull,5,2,18.0,Finished,0
+2018,20,Brazilian Grand Prix,2018-11-11,interlagos,raikkonen,Kimi Räikkönen,Ferrari,4,3,15.0,Finished,0
+2018,20,Brazilian Grand Prix,2018-11-11,interlagos,ricciardo,Daniel Ricciardo,Red Bull,11,4,12.0,Finished,0
+2018,20,Brazilian Grand Prix,2018-11-11,interlagos,bottas,Valtteri Bottas,Mercedes,3,5,10.0,Finished,0
+2018,20,Brazilian Grand Prix,2018-11-11,interlagos,vettel,Sebastian Vettel,Ferrari,2,6,8.0,Finished,0
+2018,20,Brazilian Grand Prix,2018-11-11,interlagos,leclerc,Charles Leclerc,Sauber,7,7,6.0,Finished,0
+2018,20,Brazilian Grand Prix,2018-11-11,interlagos,grosjean,Romain Grosjean,Haas F1 Team,8,8,4.0,Finished,0
+2018,20,Brazilian Grand Prix,2018-11-11,interlagos,kevin_magnussen,Kevin Magnussen,Haas F1 Team,10,9,2.0,Finished,0
+2018,20,Brazilian Grand Prix,2018-11-11,interlagos,perez,Sergio Pérez,Force India,12,10,1.0,+1 Lap,0
+2018,20,Brazilian Grand Prix,2018-11-11,interlagos,brendon_hartley,Brendon Hartley,Toro Rosso,16,11,0.0,+1 Lap,0
+2018,20,Brazilian Grand Prix,2018-11-11,interlagos,sainz,Carlos Sainz,Renault,15,12,0.0,+1 Lap,0
+2018,20,Brazilian Grand Prix,2018-11-11,interlagos,gasly,Pierre Gasly,Toro Rosso,9,13,0.0,+1 Lap,0
+2018,20,Brazilian Grand Prix,2018-11-11,interlagos,vandoorne,Stoffel Vandoorne,McLaren,20,14,0.0,+1 Lap,0
+2018,20,Brazilian Grand Prix,2018-11-11,interlagos,ocon,Esteban Ocon,Force India,18,15,0.0,+1 Lap,0
+2018,20,Brazilian Grand Prix,2018-11-11,interlagos,sirotkin,Sergey Sirotkin,Williams,14,16,0.0,+2 Laps,0
+2018,20,Brazilian Grand Prix,2018-11-11,interlagos,alonso,Fernando Alonso,McLaren,17,17,0.0,+2 Laps,0
+2018,20,Brazilian Grand Prix,2018-11-11,interlagos,stroll,Lance Stroll,Williams,19,18,0.0,+2 Laps,0
+2018,20,Brazilian Grand Prix,2018-11-11,interlagos,hulkenberg,Nico Hülkenberg,Renault,13,19,0.0,Overheating,0
+2018,20,Brazilian Grand Prix,2018-11-11,interlagos,ericsson,Marcus Ericsson,Sauber,6,20,0.0,Collision,0
+2018,21,Abu Dhabi Grand Prix,2018-11-25,yas_marina,hamilton,Lewis Hamilton,Mercedes,1,1,25.0,Finished,1
+2018,21,Abu Dhabi Grand Prix,2018-11-25,yas_marina,vettel,Sebastian Vettel,Ferrari,3,2,18.0,Finished,0
+2018,21,Abu Dhabi Grand Prix,2018-11-25,yas_marina,max_verstappen,Max Verstappen,Red Bull,6,3,15.0,Finished,0
+2018,21,Abu Dhabi Grand Prix,2018-11-25,yas_marina,ricciardo,Daniel Ricciardo,Red Bull,5,4,12.0,Finished,0
+2018,21,Abu Dhabi Grand Prix,2018-11-25,yas_marina,bottas,Valtteri Bottas,Mercedes,2,5,10.0,Finished,0
+2018,21,Abu Dhabi Grand Prix,2018-11-25,yas_marina,sainz,Carlos Sainz,Renault,11,6,8.0,Finished,0
+2018,21,Abu Dhabi Grand Prix,2018-11-25,yas_marina,leclerc,Charles Leclerc,Sauber,8,7,6.0,Finished,0
+2018,21,Abu Dhabi Grand Prix,2018-11-25,yas_marina,perez,Sergio Pérez,Force India,14,8,4.0,Finished,0
+2018,21,Abu Dhabi Grand Prix,2018-11-25,yas_marina,grosjean,Romain Grosjean,Haas F1 Team,7,9,2.0,+1 Lap,0
+2018,21,Abu Dhabi Grand Prix,2018-11-25,yas_marina,kevin_magnussen,Kevin Magnussen,Haas F1 Team,13,10,1.0,+1 Lap,0
+2018,21,Abu Dhabi Grand Prix,2018-11-25,yas_marina,alonso,Fernando Alonso,McLaren,15,11,0.0,+1 Lap,0
+2018,21,Abu Dhabi Grand Prix,2018-11-25,yas_marina,brendon_hartley,Brendon Hartley,Toro Rosso,16,12,0.0,+1 Lap,0
+2018,21,Abu Dhabi Grand Prix,2018-11-25,yas_marina,stroll,Lance Stroll,Williams,20,13,0.0,+1 Lap,0
+2018,21,Abu Dhabi Grand Prix,2018-11-25,yas_marina,vandoorne,Stoffel Vandoorne,McLaren,18,14,0.0,+1 Lap,0
+2018,21,Abu Dhabi Grand Prix,2018-11-25,yas_marina,sirotkin,Sergey Sirotkin,Williams,19,15,0.0,+1 Lap,0
+2018,21,Abu Dhabi Grand Prix,2018-11-25,yas_marina,gasly,Pierre Gasly,Toro Rosso,17,16,0.0,Engine,0
+2018,21,Abu Dhabi Grand Prix,2018-11-25,yas_marina,ocon,Esteban Ocon,Force India,9,17,0.0,Engine,0
+2018,21,Abu Dhabi Grand Prix,2018-11-25,yas_marina,ericsson,Marcus Ericsson,Sauber,12,18,0.0,Power loss,0
+2018,21,Abu Dhabi Grand Prix,2018-11-25,yas_marina,raikkonen,Kimi Räikkönen,Ferrari,4,19,0.0,Power loss,0
+2018,21,Abu Dhabi Grand Prix,2018-11-25,yas_marina,hulkenberg,Nico Hülkenberg,Renault,10,20,0.0,Collision,0

@@ -1,0 +1,441 @@
+Year,Round,Race,DriverID,Driver,QualifyingPosition,Q1,Q2,Q3
+2022,1,Bahrain Grand Prix,leclerc,Charles Leclerc,1,1:31.471,1:30.932,1:30.558
+2022,1,Bahrain Grand Prix,max_verstappen,Max Verstappen,2,1:31.785,1:30.757,1:30.681
+2022,1,Bahrain Grand Prix,sainz,Carlos Sainz,3,1:31.567,1:30.787,1:30.687
+2022,1,Bahrain Grand Prix,perez,Sergio Pérez,4,1:32.311,1:31.008,1:30.921
+2022,1,Bahrain Grand Prix,hamilton,Lewis Hamilton,5,1:32.285,1:31.048,1:31.238
+2022,1,Bahrain Grand Prix,bottas,Valtteri Bottas,6,1:31.919,1:31.717,1:31.560
+2022,1,Bahrain Grand Prix,kevin_magnussen,Kevin Magnussen,7,1:31.955,1:31.461,1:31.808
+2022,1,Bahrain Grand Prix,alonso,Fernando Alonso,8,1:32.346,1:31.621,1:32.195
+2022,1,Bahrain Grand Prix,russell,George Russell,9,1:32.269,1:31.252,1:32.216
+2022,1,Bahrain Grand Prix,gasly,Pierre Gasly,10,1:32.096,1:31.635,1:32.338
+2022,1,Bahrain Grand Prix,ocon,Esteban Ocon,11,1:32.041,1:31.782,
+2022,1,Bahrain Grand Prix,mick_schumacher,Mick Schumacher,12,1:32.380,1:31.998,
+2022,1,Bahrain Grand Prix,norris,Lando Norris,13,1:32.239,1:32.008,
+2022,1,Bahrain Grand Prix,albon,Alexander Albon,14,1:32.726,1:32.664,
+2022,1,Bahrain Grand Prix,zhou,Guanyu Zhou,15,1:32.493,1:33.543,
+2022,1,Bahrain Grand Prix,tsunoda,Yuki Tsunoda,16,1:32.750,,
+2022,1,Bahrain Grand Prix,hulkenberg,Nico Hülkenberg,17,1:32.777,,
+2022,1,Bahrain Grand Prix,ricciardo,Daniel Ricciardo,18,1:32.945,,
+2022,1,Bahrain Grand Prix,stroll,Lance Stroll,19,1:33.032,,
+2022,1,Bahrain Grand Prix,latifi,Nicholas Latifi,20,1:33.634,,
+2022,2,Saudi Arabian Grand Prix,perez,Sergio Pérez,1,1:29.705,1:28.924,1:28.200
+2022,2,Saudi Arabian Grand Prix,leclerc,Charles Leclerc,2,1:29.039,1:28.780,1:28.225
+2022,2,Saudi Arabian Grand Prix,sainz,Carlos Sainz,3,1:28.855,1:28.686,1:28.402
+2022,2,Saudi Arabian Grand Prix,max_verstappen,Max Verstappen,4,1:28.928,1:28.945,1:28.461
+2022,2,Saudi Arabian Grand Prix,ocon,Esteban Ocon,5,1:30.093,1:29.584,1:29.068
+2022,2,Saudi Arabian Grand Prix,russell,George Russell,6,1:29.680,1:29.618,1:29.104
+2022,2,Saudi Arabian Grand Prix,alonso,Fernando Alonso,7,1:29.978,1:29.295,1:29.147
+2022,2,Saudi Arabian Grand Prix,bottas,Valtteri Bottas,8,1:29.683,1:29.404,1:29.183
+2022,2,Saudi Arabian Grand Prix,gasly,Pierre Gasly,9,1:29.891,1:29.418,1:29.254
+2022,2,Saudi Arabian Grand Prix,kevin_magnussen,Kevin Magnussen,10,1:29.831,1:29.546,1:29.588
+2022,2,Saudi Arabian Grand Prix,norris,Lando Norris,11,1:29.957,1:29.651,
+2022,2,Saudi Arabian Grand Prix,ricciardo,Daniel Ricciardo,12,1:30.009,1:29.773,
+2022,2,Saudi Arabian Grand Prix,zhou,Guanyu Zhou,13,1:29.978,1:29.819,
+2022,2,Saudi Arabian Grand Prix,mick_schumacher,Mick Schumacher,14,1:30.167,1:29.920,
+2022,2,Saudi Arabian Grand Prix,stroll,Lance Stroll,15,1:30.256,1:31.009,
+2022,2,Saudi Arabian Grand Prix,hamilton,Lewis Hamilton,16,1:30.343,,
+2022,2,Saudi Arabian Grand Prix,albon,Alexander Albon,17,1:30.492,,
+2022,2,Saudi Arabian Grand Prix,hulkenberg,Nico Hülkenberg,18,1:30.543,,
+2022,2,Saudi Arabian Grand Prix,latifi,Nicholas Latifi,19,1:31.817,,
+2022,2,Saudi Arabian Grand Prix,tsunoda,Yuki Tsunoda,20,,,
+2022,3,Australian Grand Prix,leclerc,Charles Leclerc,1,1:18.881,1:18.606,1:17.868
+2022,3,Australian Grand Prix,max_verstappen,Max Verstappen,2,1:18.580,1:18.611,1:18.154
+2022,3,Australian Grand Prix,perez,Sergio Pérez,3,1:18.834,1:18.340,1:18.240
+2022,3,Australian Grand Prix,norris,Lando Norris,4,1:19.280,1:19.066,1:18.703
+2022,3,Australian Grand Prix,hamilton,Lewis Hamilton,5,1:19.401,1:19.106,1:18.825
+2022,3,Australian Grand Prix,russell,George Russell,6,1:19.405,1:19.076,1:18.933
+2022,3,Australian Grand Prix,ricciardo,Daniel Ricciardo,7,1:19.665,1:19.130,1:19.032
+2022,3,Australian Grand Prix,ocon,Esteban Ocon,8,1:19.605,1:19.136,1:19.061
+2022,3,Australian Grand Prix,sainz,Carlos Sainz,9,1:18.983,1:18.469,1:19.408
+2022,3,Australian Grand Prix,alonso,Fernando Alonso,10,1:19.192,1:18.815,
+2022,3,Australian Grand Prix,gasly,Pierre Gasly,11,1:19.580,1:19.226,
+2022,3,Australian Grand Prix,bottas,Valtteri Bottas,12,1:19.251,1:19.410,
+2022,3,Australian Grand Prix,tsunoda,Yuki Tsunoda,13,1:19.742,1:19.424,
+2022,3,Australian Grand Prix,zhou,Guanyu Zhou,14,1:19.910,1:20.155,
+2022,3,Australian Grand Prix,mick_schumacher,Mick Schumacher,15,1:20.104,1:20.465,
+2022,3,Australian Grand Prix,albon,Alexander Albon,16,1:20.135,,
+2022,3,Australian Grand Prix,kevin_magnussen,Kevin Magnussen,17,1:20.254,,
+2022,3,Australian Grand Prix,vettel,Sebastian Vettel,18,1:21.149,,
+2022,3,Australian Grand Prix,latifi,Nicholas Latifi,19,1:21.372,,
+2022,3,Australian Grand Prix,stroll,Lance Stroll,20,,,
+2022,4,Emilia Romagna Grand Prix,max_verstappen,Max Verstappen,1,1:19.295,1:18.793,1:27.999
+2022,4,Emilia Romagna Grand Prix,leclerc,Charles Leclerc,2,1:18.796,1:19.584,1:28.778
+2022,4,Emilia Romagna Grand Prix,norris,Lando Norris,3,1:20.168,1:19.294,1:29.131
+2022,4,Emilia Romagna Grand Prix,kevin_magnussen,Kevin Magnussen,4,1:20.147,1:19.902,1:29.164
+2022,4,Emilia Romagna Grand Prix,alonso,Fernando Alonso,5,1:20.198,1:19.595,1:29.202
+2022,4,Emilia Romagna Grand Prix,ricciardo,Daniel Ricciardo,6,1:19.980,1:20.031,1:29.742
+2022,4,Emilia Romagna Grand Prix,perez,Sergio Pérez,7,1:19.773,1:19.296,1:29.808
+2022,4,Emilia Romagna Grand Prix,bottas,Valtteri Bottas,8,1:20.419,1:20.192,1:30.439
+2022,4,Emilia Romagna Grand Prix,vettel,Sebastian Vettel,9,1:20.364,1:19.957,1:31.062
+2022,4,Emilia Romagna Grand Prix,sainz,Carlos Sainz,10,1:19.305,1:18.990,
+2022,4,Emilia Romagna Grand Prix,russell,George Russell,11,1:20.383,1:20.757,
+2022,4,Emilia Romagna Grand Prix,mick_schumacher,Mick Schumacher,12,1:20.422,1:20.916,
+2022,4,Emilia Romagna Grand Prix,hamilton,Lewis Hamilton,13,1:20.470,1:21.138,
+2022,4,Emilia Romagna Grand Prix,zhou,Guanyu Zhou,14,1:19.730,1:21.434,
+2022,4,Emilia Romagna Grand Prix,stroll,Lance Stroll,15,1:20.342,1:28.119,
+2022,4,Emilia Romagna Grand Prix,tsunoda,Yuki Tsunoda,16,1:20.474,,
+2022,4,Emilia Romagna Grand Prix,gasly,Pierre Gasly,17,1:20.732,,
+2022,4,Emilia Romagna Grand Prix,latifi,Nicholas Latifi,18,1:21.971,,
+2022,4,Emilia Romagna Grand Prix,ocon,Esteban Ocon,19,1:22.338,,
+2022,4,Emilia Romagna Grand Prix,albon,Alexander Albon,20,,,
+2022,5,Miami Grand Prix,leclerc,Charles Leclerc,1,1:29.474,1:29.130,1:28.796
+2022,5,Miami Grand Prix,sainz,Carlos Sainz,2,1:30.079,1:29.729,1:28.986
+2022,5,Miami Grand Prix,max_verstappen,Max Verstappen,3,1:29.836,1:29.202,1:28.991
+2022,5,Miami Grand Prix,perez,Sergio Pérez,4,1:30.055,1:29.673,1:29.036
+2022,5,Miami Grand Prix,bottas,Valtteri Bottas,5,1:30.845,1:29.751,1:29.475
+2022,5,Miami Grand Prix,hamilton,Lewis Hamilton,6,1:30.388,1:29.797,1:29.625
+2022,5,Miami Grand Prix,gasly,Pierre Gasly,7,1:30.779,1:30.128,1:29.690
+2022,5,Miami Grand Prix,norris,Lando Norris,8,1:30.761,1:29.634,1:29.750
+2022,5,Miami Grand Prix,tsunoda,Yuki Tsunoda,9,1:30.485,1:30.031,1:29.932
+2022,5,Miami Grand Prix,stroll,Lance Stroll,10,1:30.441,1:29.996,1:30.676
+2022,5,Miami Grand Prix,alonso,Fernando Alonso,11,1:30.407,1:30.160,
+2022,5,Miami Grand Prix,russell,George Russell,12,1:30.490,1:30.173,
+2022,5,Miami Grand Prix,vettel,Sebastian Vettel,13,1:30.677,1:30.214,
+2022,5,Miami Grand Prix,ricciardo,Daniel Ricciardo,14,1:30.583,1:30.310,
+2022,5,Miami Grand Prix,mick_schumacher,Mick Schumacher,15,1:30.645,1:30.423,
+2022,5,Miami Grand Prix,kevin_magnussen,Kevin Magnussen,16,1:30.975,,
+2022,5,Miami Grand Prix,zhou,Guanyu Zhou,17,1:31.020,,
+2022,5,Miami Grand Prix,albon,Alexander Albon,18,1:31.266,,
+2022,5,Miami Grand Prix,latifi,Nicholas Latifi,19,1:31.325,,
+2022,5,Miami Grand Prix,ocon,Esteban Ocon,20,,,
+2022,6,Spanish Grand Prix,leclerc,Charles Leclerc,1,1:19.861,1:19.969,1:18.750
+2022,6,Spanish Grand Prix,max_verstappen,Max Verstappen,2,1:20.091,1:19.219,1:19.073
+2022,6,Spanish Grand Prix,sainz,Carlos Sainz,3,1:19.892,1:19.453,1:19.166
+2022,6,Spanish Grand Prix,russell,George Russell,4,1:20.218,1:19.470,1:19.393
+2022,6,Spanish Grand Prix,perez,Sergio Pérez,5,1:20.447,1:19.830,1:19.420
+2022,6,Spanish Grand Prix,hamilton,Lewis Hamilton,6,1:20.252,1:19.794,1:19.512
+2022,6,Spanish Grand Prix,bottas,Valtteri Bottas,7,1:20.355,1:20.053,1:19.608
+2022,6,Spanish Grand Prix,kevin_magnussen,Kevin Magnussen,8,1:20.227,1:19.810,1:19.682
+2022,6,Spanish Grand Prix,ricciardo,Daniel Ricciardo,9,1:20.549,1:20.287,1:20.297
+2022,6,Spanish Grand Prix,mick_schumacher,Mick Schumacher,10,1:20.683,1:20.436,1:20.368
+2022,6,Spanish Grand Prix,norris,Lando Norris,11,1:20.838,1:20.471,
+2022,6,Spanish Grand Prix,ocon,Esteban Ocon,12,1:20.880,1:20.638,
+2022,6,Spanish Grand Prix,tsunoda,Yuki Tsunoda,13,1:20.707,1:20.639,
+2022,6,Spanish Grand Prix,gasly,Pierre Gasly,14,1:20.719,1:20.861,
+2022,6,Spanish Grand Prix,zhou,Guanyu Zhou,15,1:20.476,1:21.094,
+2022,6,Spanish Grand Prix,vettel,Sebastian Vettel,16,1:20.954,,
+2022,6,Spanish Grand Prix,alonso,Fernando Alonso,17,1:21.043,,
+2022,6,Spanish Grand Prix,stroll,Lance Stroll,18,1:21.418,,
+2022,6,Spanish Grand Prix,albon,Alexander Albon,19,1:21.645,,
+2022,6,Spanish Grand Prix,latifi,Nicholas Latifi,20,1:21.915,,
+2022,7,Monaco Grand Prix,leclerc,Charles Leclerc,1,1:12.569,1:11.864,1:11.376
+2022,7,Monaco Grand Prix,sainz,Carlos Sainz,2,1:12.616,1:12.074,1:11.601
+2022,7,Monaco Grand Prix,perez,Sergio Pérez,3,1:13.004,1:11.954,1:11.629
+2022,7,Monaco Grand Prix,max_verstappen,Max Verstappen,4,1:12.993,1:12.117,1:11.666
+2022,7,Monaco Grand Prix,norris,Lando Norris,5,1:12.927,1:12.266,1:11.849
+2022,7,Monaco Grand Prix,russell,George Russell,6,1:12.787,1:12.617,1:12.112
+2022,7,Monaco Grand Prix,alonso,Fernando Alonso,7,1:13.394,1:12.688,1:12.247
+2022,7,Monaco Grand Prix,hamilton,Lewis Hamilton,8,1:13.444,1:12.595,1:12.560
+2022,7,Monaco Grand Prix,vettel,Sebastian Vettel,9,1:13.313,1:12.613,1:12.732
+2022,7,Monaco Grand Prix,ocon,Esteban Ocon,10,1:12.848,1:12.528,1:13.047
+2022,7,Monaco Grand Prix,tsunoda,Yuki Tsunoda,11,1:13.110,1:12.797,
+2022,7,Monaco Grand Prix,bottas,Valtteri Bottas,12,1:13.541,1:12.909,
+2022,7,Monaco Grand Prix,kevin_magnussen,Kevin Magnussen,13,1:13.069,1:12.921,
+2022,7,Monaco Grand Prix,ricciardo,Daniel Ricciardo,14,1:13.338,1:12.964,
+2022,7,Monaco Grand Prix,mick_schumacher,Mick Schumacher,15,1:13.469,1:13.081,
+2022,7,Monaco Grand Prix,albon,Alexander Albon,16,1:13.611,,
+2022,7,Monaco Grand Prix,gasly,Pierre Gasly,17,1:13.660,,
+2022,7,Monaco Grand Prix,stroll,Lance Stroll,18,1:13.678,,
+2022,7,Monaco Grand Prix,latifi,Nicholas Latifi,19,1:14.403,,
+2022,7,Monaco Grand Prix,zhou,Guanyu Zhou,20,1:15.606,,
+2022,8,Azerbaijan Grand Prix,leclerc,Charles Leclerc,1,1:42.865,1:42.046,1:41.359
+2022,8,Azerbaijan Grand Prix,perez,Sergio Pérez,2,1:42.733,1:41.955,1:41.641
+2022,8,Azerbaijan Grand Prix,max_verstappen,Max Verstappen,3,1:42.722,1:42.227,1:41.706
+2022,8,Azerbaijan Grand Prix,sainz,Carlos Sainz,4,1:42.957,1:42.088,1:41.814
+2022,8,Azerbaijan Grand Prix,russell,George Russell,5,1:43.754,1:43.281,1:42.712
+2022,8,Azerbaijan Grand Prix,gasly,Pierre Gasly,6,1:43.268,1:43.129,1:42.845
+2022,8,Azerbaijan Grand Prix,hamilton,Lewis Hamilton,7,1:43.939,1:43.182,1:42.924
+2022,8,Azerbaijan Grand Prix,tsunoda,Yuki Tsunoda,8,1:43.595,1:43.376,1:43.056
+2022,8,Azerbaijan Grand Prix,vettel,Sebastian Vettel,9,1:43.279,1:43.268,1:43.091
+2022,8,Azerbaijan Grand Prix,alonso,Fernando Alonso,10,1:44.083,1:43.360,1:43.173
+2022,8,Azerbaijan Grand Prix,norris,Lando Norris,11,1:44.237,1:43.398,
+2022,8,Azerbaijan Grand Prix,ricciardo,Daniel Ricciardo,12,1:44.437,1:43.574,
+2022,8,Azerbaijan Grand Prix,ocon,Esteban Ocon,13,1:43.903,1:43.585,
+2022,8,Azerbaijan Grand Prix,zhou,Guanyu Zhou,14,1:43.777,1:43.790,
+2022,8,Azerbaijan Grand Prix,bottas,Valtteri Bottas,15,1:44.478,1:44.444,
+2022,8,Azerbaijan Grand Prix,kevin_magnussen,Kevin Magnussen,16,1:44.643,,
+2022,8,Azerbaijan Grand Prix,albon,Alexander Albon,17,1:44.719,,
+2022,8,Azerbaijan Grand Prix,latifi,Nicholas Latifi,18,1:45.367,,
+2022,8,Azerbaijan Grand Prix,stroll,Lance Stroll,19,1:45.371,,
+2022,8,Azerbaijan Grand Prix,mick_schumacher,Mick Schumacher,20,1:45.775,,
+2022,9,Canadian Grand Prix,max_verstappen,Max Verstappen,1,1:32.219,1:23.746,1:21.299
+2022,9,Canadian Grand Prix,alonso,Fernando Alonso,2,1:32.277,1:24.848,1:21.944
+2022,9,Canadian Grand Prix,sainz,Carlos Sainz,3,1:32.781,1:25.197,1:22.096
+2022,9,Canadian Grand Prix,hamilton,Lewis Hamilton,4,1:33.841,1:25.543,1:22.891
+2022,9,Canadian Grand Prix,kevin_magnussen,Kevin Magnussen,5,1:32.957,1:26.254,1:22.960
+2022,9,Canadian Grand Prix,mick_schumacher,Mick Schumacher,6,1:33.707,1:25.684,1:23.356
+2022,9,Canadian Grand Prix,ocon,Esteban Ocon,7,1:33.012,1:26.135,1:23.529
+2022,9,Canadian Grand Prix,russell,George Russell,8,1:33.160,1:24.950,1:23.557
+2022,9,Canadian Grand Prix,ricciardo,Daniel Ricciardo,9,1:33.636,1:26.375,1:23.749
+2022,9,Canadian Grand Prix,zhou,Guanyu Zhou,10,1:33.692,1:26.116,1:24.030
+2022,9,Canadian Grand Prix,bottas,Valtteri Bottas,11,1:33.689,1:26.788,
+2022,9,Canadian Grand Prix,albon,Alexander Albon,12,1:34.047,1:26.858,
+2022,9,Canadian Grand Prix,perez,Sergio Pérez,13,1:33.929,1:33.127,
+2022,9,Canadian Grand Prix,norris,Lando Norris,14,1:34.066,,
+2022,9,Canadian Grand Prix,leclerc,Charles Leclerc,15,1:33.008,,
+2022,9,Canadian Grand Prix,gasly,Pierre Gasly,16,1:34.492,,
+2022,9,Canadian Grand Prix,vettel,Sebastian Vettel,17,1:34.512,,
+2022,9,Canadian Grand Prix,stroll,Lance Stroll,18,1:35.532,,
+2022,9,Canadian Grand Prix,latifi,Nicholas Latifi,19,1:35.660,,
+2022,9,Canadian Grand Prix,tsunoda,Yuki Tsunoda,20,1:36.575,,
+2022,10,British Grand Prix,sainz,Carlos Sainz,1,1:40.190,1:41.602,1:40.983
+2022,10,British Grand Prix,max_verstappen,Max Verstappen,2,1:39.129,1:40.655,1:41.055
+2022,10,British Grand Prix,leclerc,Charles Leclerc,3,1:39.846,1:41.247,1:41.298
+2022,10,British Grand Prix,perez,Sergio Pérez,4,1:40.521,1:42.513,1:41.616
+2022,10,British Grand Prix,hamilton,Lewis Hamilton,5,1:40.428,1:41.062,1:41.995
+2022,10,British Grand Prix,norris,Lando Norris,6,1:41.515,1:41.821,1:42.084
+2022,10,British Grand Prix,alonso,Fernando Alonso,7,1:41.598,1:42.209,1:42.116
+2022,10,British Grand Prix,russell,George Russell,8,1:40.028,1:41.725,1:42.161
+2022,10,British Grand Prix,zhou,Guanyu Zhou,9,1:40.791,1:42.640,1:42.719
+2022,10,British Grand Prix,latifi,Nicholas Latifi,10,1:41.998,1:43.273,2:03.095
+2022,10,British Grand Prix,gasly,Pierre Gasly,11,1:41.680,1:43.702,
+2022,10,British Grand Prix,bottas,Valtteri Bottas,12,1:41.396,1:44.232,
+2022,10,British Grand Prix,tsunoda,Yuki Tsunoda,13,1:41.893,1:44.311,
+2022,10,British Grand Prix,ricciardo,Daniel Ricciardo,14,1:41.933,1:44.355,
+2022,10,British Grand Prix,ocon,Esteban Ocon,15,1:41.730,1:45.190,
+2022,10,British Grand Prix,albon,Alexander Albon,16,1:42.078,,
+2022,10,British Grand Prix,kevin_magnussen,Kevin Magnussen,17,1:42.159,,
+2022,10,British Grand Prix,vettel,Sebastian Vettel,18,1:42.666,,
+2022,10,British Grand Prix,mick_schumacher,Mick Schumacher,19,1:42.708,,
+2022,10,British Grand Prix,stroll,Lance Stroll,20,1:43.430,,
+2022,11,Austrian Grand Prix,max_verstappen,Max Verstappen,1,1:05.852,1:05.374,1:04.984
+2022,11,Austrian Grand Prix,leclerc,Charles Leclerc,2,1:05.419,1:05.287,1:05.013
+2022,11,Austrian Grand Prix,sainz,Carlos Sainz,3,1:05.660,1:05.576,1:05.066
+2022,11,Austrian Grand Prix,russell,George Russell,4,1:06.235,1:05.697,1:05.431
+2022,11,Austrian Grand Prix,ocon,Esteban Ocon,5,1:06.468,1:05.993,1:05.726
+2022,11,Austrian Grand Prix,kevin_magnussen,Kevin Magnussen,6,1:06.366,1:05.894,1:05.879
+2022,11,Austrian Grand Prix,mick_schumacher,Mick Schumacher,7,1:06.405,1:06.151,1:06.011
+2022,11,Austrian Grand Prix,alonso,Fernando Alonso,8,1:06.016,1:06.082,1:06.103
+2022,11,Austrian Grand Prix,hamilton,Lewis Hamilton,9,1:06.079,1:05.475,1:13.151
+2022,11,Austrian Grand Prix,gasly,Pierre Gasly,10,1:06.589,1:06.160,
+2022,11,Austrian Grand Prix,albon,Alexander Albon,11,1:06.516,1:06.230,
+2022,11,Austrian Grand Prix,bottas,Valtteri Bottas,12,1:06.442,1:06.319,
+2022,11,Austrian Grand Prix,perez,Sergio Pérez,13,1:06.143,1:06.458,
+2022,11,Austrian Grand Prix,tsunoda,Yuki Tsunoda,14,1:06.463,1:06.851,
+2022,11,Austrian Grand Prix,norris,Lando Norris,15,1:06.330,1:25.847,
+2022,11,Austrian Grand Prix,ricciardo,Daniel Ricciardo,16,1:06.613,,
+2022,11,Austrian Grand Prix,stroll,Lance Stroll,17,1:06.847,,
+2022,11,Austrian Grand Prix,zhou,Guanyu Zhou,18,1:06.901,,
+2022,11,Austrian Grand Prix,latifi,Nicholas Latifi,19,1:07.003,,
+2022,11,Austrian Grand Prix,vettel,Sebastian Vettel,20,1:07.083,,
+2022,12,French Grand Prix,leclerc,Charles Leclerc,1,1:31.727,1:31.216,1:30.872
+2022,12,French Grand Prix,max_verstappen,Max Verstappen,2,1:31.891,1:31.990,1:31.176
+2022,12,French Grand Prix,perez,Sergio Pérez,3,1:32.354,1:32.120,1:31.335
+2022,12,French Grand Prix,hamilton,Lewis Hamilton,4,1:33.041,1:32.274,1:31.765
+2022,12,French Grand Prix,norris,Lando Norris,5,1:32.672,1:32.777,1:32.032
+2022,12,French Grand Prix,russell,George Russell,6,1:33.109,1:32.633,1:32.131
+2022,12,French Grand Prix,alonso,Fernando Alonso,7,1:32.819,1:32.631,1:32.552
+2022,12,French Grand Prix,tsunoda,Yuki Tsunoda,8,1:33.394,1:32.836,1:32.780
+2022,12,French Grand Prix,sainz,Carlos Sainz,9,1:32.297,1:31.081,
+2022,12,French Grand Prix,kevin_magnussen,Kevin Magnussen,10,1:32.756,1:32.649,
+2022,12,French Grand Prix,ricciardo,Daniel Ricciardo,11,1:33.404,1:32.922,
+2022,12,French Grand Prix,ocon,Esteban Ocon,12,1:33.346,1:33.048,
+2022,12,French Grand Prix,bottas,Valtteri Bottas,13,1:33.034,1:33.052,
+2022,12,French Grand Prix,vettel,Sebastian Vettel,14,1:33.285,1:33.276,
+2022,12,French Grand Prix,albon,Alexander Albon,15,1:33.423,1:33.307,
+2022,12,French Grand Prix,gasly,Pierre Gasly,16,1:33.439,,
+2022,12,French Grand Prix,stroll,Lance Stroll,17,1:33.439,,
+2022,12,French Grand Prix,zhou,Guanyu Zhou,18,1:33.674,,
+2022,12,French Grand Prix,mick_schumacher,Mick Schumacher,19,1:33.701,,
+2022,12,French Grand Prix,latifi,Nicholas Latifi,20,1:33.794,,
+2022,13,Hungarian Grand Prix,russell,George Russell,1,1:18.407,1:18.154,1:17.377
+2022,13,Hungarian Grand Prix,sainz,Carlos Sainz,2,1:18.434,1:17.946,1:17.421
+2022,13,Hungarian Grand Prix,leclerc,Charles Leclerc,3,1:18.806,1:17.768,1:17.567
+2022,13,Hungarian Grand Prix,norris,Lando Norris,4,1:18.653,1:18.121,1:17.769
+2022,13,Hungarian Grand Prix,ocon,Esteban Ocon,5,1:18.866,1:18.216,1:18.018
+2022,13,Hungarian Grand Prix,alonso,Fernando Alonso,6,1:18.716,1:17.904,1:18.078
+2022,13,Hungarian Grand Prix,hamilton,Lewis Hamilton,7,1:18.374,1:18.035,1:18.142
+2022,13,Hungarian Grand Prix,bottas,Valtteri Bottas,8,1:18.935,1:18.445,1:18.157
+2022,13,Hungarian Grand Prix,ricciardo,Daniel Ricciardo,9,1:18.775,1:18.198,1:18.379
+2022,13,Hungarian Grand Prix,max_verstappen,Max Verstappen,10,1:18.509,1:17.703,1:18.823
+2022,13,Hungarian Grand Prix,perez,Sergio Pérez,11,1:19.118,1:18.516,
+2022,13,Hungarian Grand Prix,zhou,Guanyu Zhou,12,1:18.973,1:18.573,
+2022,13,Hungarian Grand Prix,kevin_magnussen,Kevin Magnussen,13,1:18.993,1:18.825,
+2022,13,Hungarian Grand Prix,stroll,Lance Stroll,14,1:19.205,1:19.137,
+2022,13,Hungarian Grand Prix,mick_schumacher,Mick Schumacher,15,1:19.164,1:19.202,
+2022,13,Hungarian Grand Prix,tsunoda,Yuki Tsunoda,16,1:19.240,,
+2022,13,Hungarian Grand Prix,albon,Alexander Albon,17,1:19.256,,
+2022,13,Hungarian Grand Prix,vettel,Sebastian Vettel,18,1:19.273,,
+2022,13,Hungarian Grand Prix,gasly,Pierre Gasly,19,1:19.527,,
+2022,13,Hungarian Grand Prix,latifi,Nicholas Latifi,20,1:19.570,,
+2022,14,Belgian Grand Prix,max_verstappen,Max Verstappen,1,1:44.581,1:44.723,1:43.665
+2022,14,Belgian Grand Prix,sainz,Carlos Sainz,2,1:45.050,1:45.418,1:44.297
+2022,14,Belgian Grand Prix,perez,Sergio Pérez,3,1:45.377,1:44.794,1:44.462
+2022,14,Belgian Grand Prix,leclerc,Charles Leclerc,4,1:45.572,1:44.551,1:44.553
+2022,14,Belgian Grand Prix,ocon,Esteban Ocon,5,1:46.039,1:45.475,1:45.180
+2022,14,Belgian Grand Prix,alonso,Fernando Alonso,6,1:46.075,1:45.552,1:45.368
+2022,14,Belgian Grand Prix,hamilton,Lewis Hamilton,7,1:45.736,1:45.420,1:45.503
+2022,14,Belgian Grand Prix,russell,George Russell,8,1:45.650,1:45.461,1:45.776
+2022,14,Belgian Grand Prix,albon,Alexander Albon,9,1:45.672,1:45.675,1:45.837
+2022,14,Belgian Grand Prix,norris,Lando Norris,10,1:45.745,1:45.603,1:46.178
+2022,14,Belgian Grand Prix,ricciardo,Daniel Ricciardo,11,1:46.212,1:45.767,
+2022,14,Belgian Grand Prix,gasly,Pierre Gasly,12,1:46.183,1:45.827,
+2022,14,Belgian Grand Prix,zhou,Guanyu Zhou,13,1:46.178,1:46.085,
+2022,14,Belgian Grand Prix,stroll,Lance Stroll,14,1:46.256,1:46.611,
+2022,14,Belgian Grand Prix,mick_schumacher,Mick Schumacher,15,1:46.342,1:47.718,
+2022,14,Belgian Grand Prix,vettel,Sebastian Vettel,16,1:46.344,,
+2022,14,Belgian Grand Prix,latifi,Nicholas Latifi,17,1:46.401,,
+2022,14,Belgian Grand Prix,kevin_magnussen,Kevin Magnussen,18,1:46.557,,
+2022,14,Belgian Grand Prix,tsunoda,Yuki Tsunoda,19,1:46.692,,
+2022,14,Belgian Grand Prix,bottas,Valtteri Bottas,20,1:47.866,,
+2022,15,Dutch Grand Prix,max_verstappen,Max Verstappen,1,1:11.317,1:10.927,1:10.342
+2022,15,Dutch Grand Prix,leclerc,Charles Leclerc,2,1:11.443,1:10.988,1:10.363
+2022,15,Dutch Grand Prix,sainz,Carlos Sainz,3,1:11.767,1:10.814,1:10.434
+2022,15,Dutch Grand Prix,hamilton,Lewis Hamilton,4,1:11.331,1:11.075,1:10.648
+2022,15,Dutch Grand Prix,perez,Sergio Pérez,5,1:11.641,1:11.314,1:11.077
+2022,15,Dutch Grand Prix,russell,George Russell,6,1:11.561,1:10.824,1:11.147
+2022,15,Dutch Grand Prix,norris,Lando Norris,7,1:11.556,1:11.116,1:11.174
+2022,15,Dutch Grand Prix,mick_schumacher,Mick Schumacher,8,1:11.741,1:11.420,1:11.442
+2022,15,Dutch Grand Prix,tsunoda,Yuki Tsunoda,9,1:11.427,1:11.428,1:12.556
+2022,15,Dutch Grand Prix,stroll,Lance Stroll,10,1:11.568,1:11.416,
+2022,15,Dutch Grand Prix,gasly,Pierre Gasly,11,1:11.705,1:11.512,
+2022,15,Dutch Grand Prix,ocon,Esteban Ocon,12,1:11.748,1:11.605,
+2022,15,Dutch Grand Prix,alonso,Fernando Alonso,13,1:11.667,1:11.613,
+2022,15,Dutch Grand Prix,zhou,Guanyu Zhou,14,1:11.826,1:11.704,
+2022,15,Dutch Grand Prix,albon,Alexander Albon,15,1:11.695,1:11.802,
+2022,15,Dutch Grand Prix,bottas,Valtteri Bottas,16,1:11.961,,
+2022,15,Dutch Grand Prix,ricciardo,Daniel Ricciardo,17,1:12.081,,
+2022,15,Dutch Grand Prix,kevin_magnussen,Kevin Magnussen,18,1:12.319,,
+2022,15,Dutch Grand Prix,vettel,Sebastian Vettel,19,1:12.391,,
+2022,15,Dutch Grand Prix,latifi,Nicholas Latifi,20,1:13.353,,
+2022,16,Italian Grand Prix,leclerc,Charles Leclerc,1,1:21.280,1:21.208,1:20.161
+2022,16,Italian Grand Prix,max_verstappen,Max Verstappen,2,1:20.922,1:21.265,1:20.306
+2022,16,Italian Grand Prix,sainz,Carlos Sainz,3,1:21.348,1:20.878,1:20.429
+2022,16,Italian Grand Prix,perez,Sergio Pérez,4,1:21.495,1:21.358,1:21.206
+2022,16,Italian Grand Prix,hamilton,Lewis Hamilton,5,1:22.048,1:21.708,1:21.524
+2022,16,Italian Grand Prix,russell,George Russell,6,1:21.785,1:21.747,1:21.542
+2022,16,Italian Grand Prix,norris,Lando Norris,7,1:22.130,1:21.831,1:21.584
+2022,16,Italian Grand Prix,ricciardo,Daniel Ricciardo,8,1:22.139,1:21.855,1:21.925
+2022,16,Italian Grand Prix,gasly,Pierre Gasly,9,1:22.010,1:22.062,1:22.648
+2022,16,Italian Grand Prix,alonso,Fernando Alonso,10,1:22.089,1:21.861,
+2022,16,Italian Grand Prix,ocon,Esteban Ocon,11,1:22.166,1:22.130,
+2022,16,Italian Grand Prix,bottas,Valtteri Bottas,12,1:22.254,1:22.235,
+2022,16,Italian Grand Prix,de_vries,Nyck de Vries,13,1:22.567,1:22.471,
+2022,16,Italian Grand Prix,zhou,Guanyu Zhou,14,1:22.003,1:22.577,
+2022,16,Italian Grand Prix,tsunoda,Yuki Tsunoda,15,1:22.020,,
+2022,16,Italian Grand Prix,latifi,Nicholas Latifi,16,1:22.587,,
+2022,16,Italian Grand Prix,vettel,Sebastian Vettel,17,1:22.636,,
+2022,16,Italian Grand Prix,stroll,Lance Stroll,18,1:22.748,,
+2022,16,Italian Grand Prix,kevin_magnussen,Kevin Magnussen,19,1:22.908,,
+2022,16,Italian Grand Prix,mick_schumacher,Mick Schumacher,20,1:23.005,,
+2022,17,Singapore Grand Prix,leclerc,Charles Leclerc,1,1:54.129,1:52.343,1:49.412
+2022,17,Singapore Grand Prix,perez,Sergio Pérez,2,1:54.404,1:52.818,1:49.434
+2022,17,Singapore Grand Prix,hamilton,Lewis Hamilton,3,1:53.161,1:52.691,1:49.466
+2022,17,Singapore Grand Prix,sainz,Carlos Sainz,4,1:54.559,1:53.219,1:49.583
+2022,17,Singapore Grand Prix,alonso,Fernando Alonso,5,1:55.360,1:53.127,1:49.966
+2022,17,Singapore Grand Prix,norris,Lando Norris,6,1:55.914,1:53.942,1:50.584
+2022,17,Singapore Grand Prix,gasly,Pierre Gasly,7,1:55.606,1:53.546,1:51.211
+2022,17,Singapore Grand Prix,max_verstappen,Max Verstappen,8,1:53.057,1:52.723,1:51.395
+2022,17,Singapore Grand Prix,kevin_magnussen,Kevin Magnussen,9,1:55.103,1:54.006,1:51.573
+2022,17,Singapore Grand Prix,tsunoda,Yuki Tsunoda,10,1:55.314,1:53.848,1:51.983
+2022,17,Singapore Grand Prix,russell,George Russell,11,1:54.633,1:54.012,
+2022,17,Singapore Grand Prix,stroll,Lance Stroll,12,1:55.629,1:54.211,
+2022,17,Singapore Grand Prix,mick_schumacher,Mick Schumacher,13,1:55.736,1:54.370,
+2022,17,Singapore Grand Prix,vettel,Sebastian Vettel,14,1:55.602,1:54.380,
+2022,17,Singapore Grand Prix,zhou,Guanyu Zhou,15,1:55.375,1:55.518,
+2022,17,Singapore Grand Prix,bottas,Valtteri Bottas,16,1:56.083,,
+2022,17,Singapore Grand Prix,ricciardo,Daniel Ricciardo,17,1:56.226,,
+2022,17,Singapore Grand Prix,ocon,Esteban Ocon,18,1:56.337,,
+2022,17,Singapore Grand Prix,albon,Alexander Albon,19,1:56.985,,
+2022,17,Singapore Grand Prix,latifi,Nicholas Latifi,20,1:57.532,,
+2022,18,Japanese Grand Prix,max_verstappen,Max Verstappen,1,1:30.224,1:30.346,1:29.304
+2022,18,Japanese Grand Prix,leclerc,Charles Leclerc,2,1:30.402,1:30.486,1:29.314
+2022,18,Japanese Grand Prix,sainz,Carlos Sainz,3,1:30.336,1:30.444,1:29.361
+2022,18,Japanese Grand Prix,perez,Sergio Pérez,4,1:30.622,1:29.925,1:29.709
+2022,18,Japanese Grand Prix,ocon,Esteban Ocon,5,1:30.696,1:30.357,1:30.165
+2022,18,Japanese Grand Prix,hamilton,Lewis Hamilton,6,1:30.906,1:30.443,1:30.261
+2022,18,Japanese Grand Prix,alonso,Fernando Alonso,7,1:30.603,1:30.343,1:30.322
+2022,18,Japanese Grand Prix,russell,George Russell,8,1:30.865,1:30.465,1:30.389
+2022,18,Japanese Grand Prix,vettel,Sebastian Vettel,9,1:31.256,1:30.656,1:30.554
+2022,18,Japanese Grand Prix,norris,Lando Norris,10,1:30.881,1:30.473,1:31.003
+2022,18,Japanese Grand Prix,ricciardo,Daniel Ricciardo,11,1:30.880,1:30.659,
+2022,18,Japanese Grand Prix,bottas,Valtteri Bottas,12,1:31.226,1:30.709,
+2022,18,Japanese Grand Prix,tsunoda,Yuki Tsunoda,13,1:31.130,1:30.808,
+2022,18,Japanese Grand Prix,zhou,Guanyu Zhou,14,1:30.894,1:30.953,
+2022,18,Japanese Grand Prix,mick_schumacher,Mick Schumacher,15,1:31.152,1:31.439,
+2022,18,Japanese Grand Prix,albon,Alexander Albon,16,1:31.311,,
+2022,18,Japanese Grand Prix,gasly,Pierre Gasly,17,1:31.322,,
+2022,18,Japanese Grand Prix,kevin_magnussen,Kevin Magnussen,18,1:31.352,,
+2022,18,Japanese Grand Prix,stroll,Lance Stroll,19,1:31.419,,
+2022,18,Japanese Grand Prix,latifi,Nicholas Latifi,20,1:31.511,,
+2022,19,United States Grand Prix,sainz,Carlos Sainz,1,1:35.297,1:35.590,1:34.356
+2022,19,United States Grand Prix,leclerc,Charles Leclerc,2,1:35.795,1:35.246,1:34.421
+2022,19,United States Grand Prix,max_verstappen,Max Verstappen,3,1:35.864,1:35.294,1:34.448
+2022,19,United States Grand Prix,perez,Sergio Pérez,4,1:36.163,1:35.864,1:34.645
+2022,19,United States Grand Prix,hamilton,Lewis Hamilton,5,1:36.148,1:35.732,1:34.947
+2022,19,United States Grand Prix,russell,George Russell,6,1:36.195,1:35.692,1:34.988
+2022,19,United States Grand Prix,stroll,Lance Stroll,7,1:36.860,1:36.032,1:35.598
+2022,19,United States Grand Prix,norris,Lando Norris,8,1:36.465,1:36.341,1:35.690
+2022,19,United States Grand Prix,alonso,Fernando Alonso,9,1:36.446,1:35.988,1:35.876
+2022,19,United States Grand Prix,bottas,Valtteri Bottas,10,1:36.746,1:36.321,1:36.319
+2022,19,United States Grand Prix,albon,Alexander Albon,11,1:36.932,1:36.368,
+2022,19,United States Grand Prix,vettel,Sebastian Vettel,12,1:36.695,1:36.398,
+2022,19,United States Grand Prix,gasly,Pierre Gasly,13,1:36.577,1:36.740,
+2022,19,United States Grand Prix,zhou,Guanyu Zhou,14,1:36.656,1:36.970,
+2022,19,United States Grand Prix,tsunoda,Yuki Tsunoda,15,1:36.808,1:37.147,
+2022,19,United States Grand Prix,kevin_magnussen,Kevin Magnussen,16,1:36.949,,
+2022,19,United States Grand Prix,ricciardo,Daniel Ricciardo,17,1:37.046,,
+2022,19,United States Grand Prix,ocon,Esteban Ocon,18,1:37.068,,
+2022,19,United States Grand Prix,mick_schumacher,Mick Schumacher,19,1:37.111,,
+2022,19,United States Grand Prix,latifi,Nicholas Latifi,20,1:37.244,,
+2022,20,Mexico City Grand Prix,max_verstappen,Max Verstappen,1,1:19.222,1:18.566,1:17.775
+2022,20,Mexico City Grand Prix,russell,George Russell,2,1:19.583,1:18.565,1:18.079
+2022,20,Mexico City Grand Prix,hamilton,Lewis Hamilton,3,1:19.169,1:18.552,1:18.084
+2022,20,Mexico City Grand Prix,perez,Sergio Pérez,4,1:19.706,1:18.615,1:18.128
+2022,20,Mexico City Grand Prix,sainz,Carlos Sainz,5,1:19.566,1:18.560,1:18.351
+2022,20,Mexico City Grand Prix,bottas,Valtteri Bottas,6,1:19.523,1:18.762,1:18.401
+2022,20,Mexico City Grand Prix,leclerc,Charles Leclerc,7,1:19.505,1:19.109,1:18.555
+2022,20,Mexico City Grand Prix,norris,Lando Norris,8,1:19.857,1:19.119,1:18.721
+2022,20,Mexico City Grand Prix,alonso,Fernando Alonso,9,1:20.006,1:19.272,1:18.939
+2022,20,Mexico City Grand Prix,ocon,Esteban Ocon,10,1:19.945,1:19.081,1:19.010
+2022,20,Mexico City Grand Prix,ricciardo,Daniel Ricciardo,11,1:20.279,1:19.325,
+2022,20,Mexico City Grand Prix,zhou,Guanyu Zhou,12,1:20.283,1:19.476,
+2022,20,Mexico City Grand Prix,tsunoda,Yuki Tsunoda,13,1:19.907,1:19.589,
+2022,20,Mexico City Grand Prix,gasly,Pierre Gasly,14,1:20.256,1:19.672,
+2022,20,Mexico City Grand Prix,kevin_magnussen,Kevin Magnussen,15,1:20.293,1:19.833,
+2022,20,Mexico City Grand Prix,mick_schumacher,Mick Schumacher,16,1:20.419,,
+2022,20,Mexico City Grand Prix,vettel,Sebastian Vettel,17,1:20.419,,
+2022,20,Mexico City Grand Prix,stroll,Lance Stroll,18,1:20.520,,
+2022,20,Mexico City Grand Prix,albon,Alexander Albon,19,1:20.859,,
+2022,20,Mexico City Grand Prix,latifi,Nicholas Latifi,20,1:21.167,,
+2022,21,São Paulo Grand Prix,kevin_magnussen,Kevin Magnussen,1,1:13.954,1:11.410,1:11.674
+2022,21,São Paulo Grand Prix,max_verstappen,Max Verstappen,2,1:13.625,1:10.881,1:11.877
+2022,21,São Paulo Grand Prix,russell,George Russell,3,1:14.427,1:11.318,1:12.059
+2022,21,São Paulo Grand Prix,norris,Lando Norris,4,1:13.106,1:11.377,1:12.263
+2022,21,São Paulo Grand Prix,sainz,Carlos Sainz,5,1:14.680,1:10.890,1:12.357
+2022,21,São Paulo Grand Prix,ocon,Esteban Ocon,6,1:14.663,1:11.587,1:12.425
+2022,21,São Paulo Grand Prix,alonso,Fernando Alonso,7,1:13.542,1:11.394,1:12.504
+2022,21,São Paulo Grand Prix,hamilton,Lewis Hamilton,8,1:13.403,1:11.539,1:12.611
+2022,21,São Paulo Grand Prix,perez,Sergio Pérez,9,1:13.613,1:11.456,1:15.601
+2022,21,São Paulo Grand Prix,leclerc,Charles Leclerc,10,1:14.486,1:10.950,
+2022,21,São Paulo Grand Prix,albon,Alexander Albon,11,1:14.324,1:11.631,
+2022,21,São Paulo Grand Prix,gasly,Pierre Gasly,12,1:14.371,1:11.675,
+2022,21,São Paulo Grand Prix,vettel,Sebastian Vettel,13,1:13.597,1:11.678,
+2022,21,São Paulo Grand Prix,ricciardo,Daniel Ricciardo,14,1:14.931,1:12.140,
+2022,21,São Paulo Grand Prix,stroll,Lance Stroll,15,1:14.398,1:12.210,
+2022,21,São Paulo Grand Prix,latifi,Nicholas Latifi,16,1:15.095,,
+2022,21,São Paulo Grand Prix,zhou,Guanyu Zhou,17,1:15.197,,
+2022,21,São Paulo Grand Prix,bottas,Valtteri Bottas,18,1:15.486,,
+2022,21,São Paulo Grand Prix,tsunoda,Yuki Tsunoda,19,1:16.264,,
+2022,21,São Paulo Grand Prix,mick_schumacher,Mick Schumacher,20,1:16.361,,
+2022,22,Abu Dhabi Grand Prix,max_verstappen,Max Verstappen,1,1:24.754,1:24.622,1:23.824
+2022,22,Abu Dhabi Grand Prix,perez,Sergio Pérez,2,1:24.820,1:24.419,1:24.052
+2022,22,Abu Dhabi Grand Prix,leclerc,Charles Leclerc,3,1:25.211,1:24.517,1:24.092
+2022,22,Abu Dhabi Grand Prix,sainz,Carlos Sainz,4,1:25.090,1:24.521,1:24.242
+2022,22,Abu Dhabi Grand Prix,hamilton,Lewis Hamilton,5,1:25.594,1:24.774,1:24.508
+2022,22,Abu Dhabi Grand Prix,russell,George Russell,6,1:25.545,1:24.940,1:24.511
+2022,22,Abu Dhabi Grand Prix,norris,Lando Norris,7,1:25.387,1:24.903,1:24.769
+2022,22,Abu Dhabi Grand Prix,ocon,Esteban Ocon,8,1:25.735,1:25.007,1:24.830
+2022,22,Abu Dhabi Grand Prix,vettel,Sebastian Vettel,9,1:25.523,1:24.974,1:24.961
+2022,22,Abu Dhabi Grand Prix,ricciardo,Daniel Ricciardo,10,1:25.766,1:25.068,1:25.045
+2022,22,Abu Dhabi Grand Prix,alonso,Fernando Alonso,11,1:25.782,1:25.096,
+2022,22,Abu Dhabi Grand Prix,tsunoda,Yuki Tsunoda,12,1:25.630,1:25.219,
+2022,22,Abu Dhabi Grand Prix,mick_schumacher,Mick Schumacher,13,1:25.711,1:25.225,
+2022,22,Abu Dhabi Grand Prix,stroll,Lance Stroll,14,1:25.741,1:25.359,
+2022,22,Abu Dhabi Grand Prix,zhou,Guanyu Zhou,15,1:25.594,1:25.408,
+2022,22,Abu Dhabi Grand Prix,kevin_magnussen,Kevin Magnussen,16,1:25.834,,
+2022,22,Abu Dhabi Grand Prix,gasly,Pierre Gasly,17,1:25.859,,
+2022,22,Abu Dhabi Grand Prix,bottas,Valtteri Bottas,18,1:25.892,,
+2022,22,Abu Dhabi Grand Prix,albon,Alexander Albon,19,1:26.028,,
+2022,22,Abu Dhabi Grand Prix,latifi,Nicholas Latifi,20,1:26.054,,
